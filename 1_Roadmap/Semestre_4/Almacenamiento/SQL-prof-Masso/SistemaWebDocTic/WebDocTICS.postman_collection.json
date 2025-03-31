@@ -1,0 +1,963 @@
+{
+	"info": {
+		"_postman_id": "262b8e2b-c6ed-49b7-832f-5cd259188cae",
+		"name": "WebDocTICS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33485716"
+	},
+	"item": [
+		{
+			"name": "Documento",
+			"item": [
+				{
+					"name": "getAllDocuments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/documentos/get",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"documentos",
+								"get"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getIdDocument",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/documentos/get/15",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"documentos",
+								"get",
+								"15"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteIdDocument",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/documentos/delete/90",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"documentos",
+								"delete",
+								"90"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "putDocument",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"URL\": \"hm\",\r\n    \"descripcion\": \"Un documento de prueba\",\r\n    \"tituloDoc\": \"Documento Ejemplo\",\r\n    \"visibilidad\": \"Privado\",\r\n    \"idCategoria\": {\r\n        \"idCategoria\": 20\r\n    }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/documentos/put/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"documentos",
+								"put",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postDocument",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"tituloDoc\": \"Data analysis with JHON EDER MASSO\",\r\n  \"visibilidad\": \"Publico\",\r\n  \"URL\": \"http://nueva-url.com/doc/jhonedermassso\",\r\n  \"descripcion\": \"Jhon eder masso\",\r\n  \"idCategoria\": {\r\n    \"idCategoria\": 20\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/documentos/post",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"documentos",
+								"post"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Categoría",
+			"item": [
+				{
+					"name": "getAllCategories",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/categorias/get",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"categorias",
+								"get"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getCategories",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/categorias/get/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"categorias",
+								"get",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postCategories",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nombre\": \"programaciónPOO\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/categorias/post",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"categorias",
+								"post"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "putCategories",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nombre\": \"Data Analysis\",\r\n  \"subIdCategoria\": {\r\n    \"idCategoria\": 35\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/categorias/put/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"categorias",
+								"put",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteCategories",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/categorias/delete/1000",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"categorias",
+								"delete",
+								"1000"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Usuario",
+			"item": [
+				{
+					"name": "deleteUsuario",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios/eliminarusuario/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"eliminarusuario",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "usuarioGet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getAllUsuarios",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios/listarusuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"listarusuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postUsuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nombreUsuario\": \"Juan Perez\",\r\n  \"deptoOrigen\": \"Tecnología\",\r\n  \"ciudadOrigen\": \"Ciudad de México\",\r\n  \"correoUsuario\": \"juan.perez123@example.com\",\r\n  \"preguntaSecreta\": \"¿Cuál es tu color favorito?\",\r\n  \"respPregunSecre\": \"Azul\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/usuarios/insertar",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"insertar"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Comentario",
+			"item": [
+				{
+					"name": "getAllComentarios",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/comentarios/get",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"comentarios",
+								"get"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getComentario",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/comentarios/get/10000",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"comentarios",
+								"get",
+								"10000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postComentario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"comentario\": \"Este es un comentario de prueba\",\r\n  \"idUsuario\": {\r\n    \"idUsuario\": 1\r\n  },\r\n  \"idDocumento\": {\r\n    \"idDocumento\": 1\r\n  },\r\n  \"subidComentario\":\r\n  {\r\n    \"idComentario\":150\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/comentarios/post",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"comentarios",
+								"post"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "putComentario",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"comentario\":\"este es un comentario editado\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/comentarios/put/11",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"comentarios",
+								"put",
+								"11"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteComentario",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/comentarios/delete/1708",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"comentarios",
+								"delete",
+								"1708"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Valora",
+			"item": [
+				{
+					"name": "getAllValoraciones",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/valoraciones/obtener",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"valoraciones",
+								"obtener"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getValoracion",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/valoraciones/obtener/15",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"valoraciones",
+								"obtener",
+								"15"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteValoracion",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/valoraciones/eliminar/1000",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"valoraciones",
+								"eliminar",
+								"1000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "putValoracion",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"idUsuario\": {\r\n    \"idUsuario\": 1\r\n  },\r\n  \"idDocumento\": {\r\n    \"idDocumento\": 1\r\n  },\r\n  \"valoracion\": 5\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/valoraciones/editar/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"valoraciones",
+								"editar",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postValoracion",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"idUsuario\": {\r\n    \"idUsuario\": 5\r\n  },\r\n  \"idDocumento\": {\r\n    \"idDocumento\": 1\r\n  },\r\n  \"valoracion\": 5\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/valoraciones/crear",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"valoraciones",
+								"crear"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Contraseña",
+			"item": [
+				{
+					"name": "getContrasenaActiva",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/contrasena/activa/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"contrasena",
+								"activa",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postContrasena",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"contrasena\":\"password\",\r\n    \"estado\":\"Inactiva\",\r\n    \"idUsuario\":25\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/contrasena/crear",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"contrasena",
+								"crear"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Descarga",
+			"item": [
+				{
+					"name": "getAllDescargas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/descargas/todas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"descargas",
+								"todas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getDescarga",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/descargas/obtener/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"descargas",
+								"obtener",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postDescarga",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"usuario\": {\r\n    \"idUsuario\": 1\r\n  },\r\n  \"documento\": {\r\n    \"idDocumento\": 15\r\n  }\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/descargas/crear",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"descargas",
+								"crear"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Publica",
+			"item": [
+				{
+					"name": "getPublicacion",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/publicaciones/obtener/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"publicaciones",
+								"obtener",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getAllPublicaciones",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/publicaciones/todas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"publicaciones",
+								"todas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deletePublicacion",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/publicaciones/eliminar/1000",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"publicaciones",
+								"eliminar",
+								"1000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postPublicacion",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"usuario\": {\r\n    \"idUsuario\": 2\r\n  },\r\n  \"documento\": {\r\n    \"idDocumento\": 35\r\n  },\r\n  \"rol\": \"Autor\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/publicaciones/crear",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"publicaciones",
+								"crear"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modificarPublicacion",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"usuario\": {\r\n    \"idUsuario\": 1\r\n  },\r\n  \"documento\": {\r\n    \"idDocumento\": 4000\r\n  },\r\n  \"rol\": \"Autor\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/publicaciones/modificar/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"publicaciones",
+								"modificar",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Mira",
+			"item": [
+				{
+					"name": "obtenerVista",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/mira/obtener",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"mira",
+								"obtener"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtenerDocVista",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/mira/obtener/documento/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"mira",
+								"obtener",
+								"documento",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtenerUserVista",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/mira/obtener/usuario/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"mira",
+								"obtener",
+								"usuario",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "crearVista",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"fechaMira\": \"2023-10-05T14:48:00\",\r\n  \"idUsuario\": {\r\n    \"idUsuario\": 1\r\n  },\r\n  \"idDocumento\": {\r\n    \"idDocumento\": 15\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/mira/crear",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"mira",
+								"crear"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\ApiDocsTicsApplication.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Controller\CategoriaController.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Controller\DocumentoController.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Exception\RecursoNoEncontradoException.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Model\CategoriaModel.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Model\DocumentoModel.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Model\ENUM\Visibilidad.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Repository\ICategoriaRepository.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Repository\IDocumentoRepository.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Service\CategoriaServiceImp.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Service\DocumentoServiceImp.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Service\ICategoriaService.java
+C:\Users\LENOVO\Documents\GitHub\SistemaWebDocTIC_Almacenamiento\backend\apiDocsTICS\src\main\java\com\example\apiDocsTICS\Service\IDocumentoService.java

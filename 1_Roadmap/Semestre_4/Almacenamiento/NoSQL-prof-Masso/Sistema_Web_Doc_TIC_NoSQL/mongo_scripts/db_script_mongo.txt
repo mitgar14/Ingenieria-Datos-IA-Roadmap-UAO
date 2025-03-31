@@ -1,0 +1,329 @@
+use Sistema_WebDocTIC;
+
+db.createCollection("Usuarios", {
+    "capped": false,
+    "validator": {
+        "$jsonSchema": {
+            "bsonType": "object",
+            "title": "Usuarios",
+            "properties": {
+                "_id": {
+                    "bsonType": "objectId"
+                },
+                "nombreUsuario": {
+                    "bsonType": "string"
+                },
+                "correoUsuario": {
+                    "bsonType": "string"
+                },
+                "localizacion": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "ciudadOrigen": {
+                                "bsonType": "string"
+                            },
+                            "deptoOrigen": {
+                                "bsonType": "string"
+                            },
+                            "codPostal": {
+                                "bsonType": "string"
+                            }
+                        },
+                        "additionalProperties": false,
+                        "required": [
+                            "ciudadOrigen",
+                            "deptoOrigen"
+                        ]
+                    }
+                },
+                "preguntaSecreta": {
+                    "bsonType": "string"
+                },
+                "resPregunSecret": {
+                    "bsonType": "string"
+                },
+                "contrasenas": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "contrasena": {
+                                "bsonType": "string"
+                            },
+                            "estado": {
+                                "bsonType": "string",
+                                "enum": [
+                                    "Activa",
+                                    "Inactiva"
+                                ]
+                            },
+                            "fecha": {
+                                "bsonType": "date"
+                            }
+                        },
+                        "additionalProperties": false,
+                        "required": [
+                            "contrasena",
+                            "estado",
+                            "fecha"
+                        ]
+                    }
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "_id",
+                "nombreUsuario",
+                "correoUsuario",
+                "localizacion",
+                "preguntaSecreta",
+                "resPregunSecret",
+                "contrasenas"
+            ]
+        }
+    },
+    "validationLevel": "strict",
+    "validationAction": "error"
+});
+
+
+
+
+db.createCollection("Comentarios", {
+    "capped": false,
+    "validator": {
+        "$jsonSchema": {
+            "bsonType": "object",
+            "title": "Comentarios",
+            "properties": {
+                "_id": {
+                    "bsonType": "objectId"
+                },
+                "comentario": {
+                    "bsonType": "string"
+                },
+                "fecha": {
+                    "bsonType": "date"
+                },
+                "replicasComentario": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "comentarioReplica": {
+                                "bsonType": "string"
+                            },
+                            "usuarioReplicaId": {
+                                "bsonType": "objectId"
+                            },
+                            "fechaReplica": {
+                                "bsonType": "date"
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "usuarioId": {
+                    "bsonType": "objectId"
+                },
+                "documentoId": {
+                    "bsonType": "objectId"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "_id",
+                "comentario",
+                "fecha",
+                "usuarioId",
+                "documentoId"
+            ]
+        }
+    },
+    "validationLevel": "moderate"
+});
+
+
+
+
+db.createCollection("Documentos", {
+    "capped": false,
+    "validator": {
+        "$jsonSchema": {
+            "bsonType": "object",
+            "title": "Documentos",
+            "properties": {
+                "_id": {
+                    "bsonType": "objectId"
+                },
+                "tituloDoc": {
+                    "bsonType": "string"
+                },
+                "visibilidad": {
+                    "bsonType": "string",
+                    "enum": [
+                        "Publico",
+                        "Privado"
+                    ]
+                },
+                "URL": {
+                    "bsonType": "string"
+                },
+                "descripcion": {
+                    "bsonType": "string"
+                },
+                "categorias": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "categoriaId": {
+                                "bsonType": "objectId"
+                            }
+                        },
+                        "additionalProperties": false,
+                        "required": [
+                            "categoriaId"
+                        ]
+                    }
+                },
+                "descargas": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "usuarioId": {
+                                "bsonType": "objectId"
+                            },
+                            "fechaDescarga": {
+                                "bsonType": "date"
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "vistas": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "usuarioId": {
+                                "bsonType": "objectId"
+                            },
+                            "fechaVista": {
+                                "bsonType": "date"
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "valoraciones": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "usuarioId": {
+                                "bsonType": "objectId"
+                            },
+                            "valoracion": {
+                                "bsonType": "number",
+                                "maximum": 5,
+                                "minimum": 1
+                            },
+                            "fechaValora": {
+                                "bsonType": "date"
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "infoAutores": {
+                    "bsonType": "array",
+                    "additionalItems": true,
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "usuarioId": {
+                                "bsonType": "objectId"
+                            },
+                            "fechaPublicacion": {
+                                "bsonType": "date"
+                            },
+                            "biografia": {
+                                "bsonType": "string"
+                            },
+                            "rol": {
+                                "bsonType": "string",
+                                "enum": [
+                                    "Autor",
+                                    "Coautor"
+                                ]
+                            }
+                        },
+                        "additionalProperties": false,
+                        "required": [
+                            "usuarioId",
+                            "fechaPublicacion",
+                            "rol"
+                        ]
+                    }
+                },
+                "abstract": {
+                    "bsonType": "string"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "_id",
+                "tituloDoc",
+                "visibilidad",
+                "URL",
+                "descripcion",
+                "categorias",
+                "infoAutores"
+            ]
+        }
+    },
+    "validationLevel": "moderate",
+    "validationAction": "error"
+});
+
+
+
+
+db.createCollection("Categorias", {
+    "capped": false,
+    "validator": {
+        "$jsonSchema": {
+            "bsonType": "object",
+            "title": "Categorias",
+            "properties": {
+                "_id": {
+                    "bsonType": "objectId"
+                },
+                "nombre": {
+                    "bsonType": "string"
+                },
+                "subIdCategoria": {
+                    "bsonType": "objectId"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "_id",
+                "nombre"
+            ]
+        }
+    },
+    "validationLevel": "moderate",
+    "validationAction": "error"
+});

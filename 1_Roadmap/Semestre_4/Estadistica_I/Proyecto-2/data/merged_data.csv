@@ -1,0 +1,1444 @@
+Region,Gender,Handed,Favourite_physical_activity,Importance_reducing_pollution,Birth_month,Beverage,Favorite_School_Subject,Sleep_Hours_Non_Schoolnight,Paid_Work_Hours,Work_At_Home_Hours,Planned_Education_Level
+CA,Male,Right-Handed,Running/Jogging,1000,April,Water,Computers and technology,11,0,10,Undergraduate degree
+CA,Male,Right-Handed,Walking/Hiking,1000,May,Water,Science,12,0,7,Graduate degree
+CA,Male,Right-Handed,Soccer,1000,June,Water,Mathematics and statistics,10,0,6,Some college
+CA,Male,Right-Handed,Swimming,1000,June,Water,Physical education,8,0,7,Other
+CA,Male,Right-Handed,Basketball,900,July,Water,English,9,0,4,Graduate degree
+CA,Male,Right-Handed,Swimming,0,August,Water,Mathematics and statistics,8,0,3,Graduate degree
+CA,Female,Right-Handed,Martial Arts,989,August,Water,Art,9,0,3,Graduate degree
+CA,Female,Right-Handed,Tennis,650,June,Water,History,11,17,7,Graduate degree
+CA,Male,Right-Handed,Athletics,1000,December,Water,Art,8,0,2,Some college
+CA,Male,Right-Handed,Soccer,91,September,Water,History,7,14,10,Graduate degree
+CA,Male,Right-Handed,Soccer,500,October,Water,Mathematics and statistics,3,0,1,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,February,Soft drink (caffeinated),Mathematics and statistics,9,0,1,Graduate degree
+CA,Male,Right-Handed,Football (American),797,March,Milk,Mathematics and statistics,9,1,0,Undergraduate degree
+CA,Male,Right-Handed,Soccer,900,February,Water,History,9,0,5,Graduate degree
+CA,Female,Right-Handed,Dancing,1000,October,Powdered drink,Art,9,0,10,High school
+CA,Male,Right-Handed,Soccer,800,May,Water,Other,8,0,0,Some college
+CA,Male,Right-Handed,Soccer,1000,August,Water,English,9,1,5,Graduate degree
+CA,Male,Right-Handed,Skateboarding/Rollerblading,770,November,Tea,Science,7,0,14,Some college
+CA,Female,Right-Handed,Lacrosse,700,June,Water,Music,10,0,6,Graduate degree
+CA,Male,Right-Handed,Bowling,1000,November,Water,Computers and technology,9,0,7,Graduate degree
+CA,Male,Right-Handed,Skateboarding/Rollerblading,588,February,Tea,Mathematics and statistics,9,14,5,Graduate degree
+CA,Female,Left-Handed,Dancing,812,November,Soft drink (caffeinated),Art,9,0,1,Some college
+CA,Male,Right-Handed,Martial Arts,500,December,Water,Computers and technology,8,0,5,Graduate degree
+CA,Female,Right-Handed,Soccer,1000,October,Sports drink,Languages,12,0,2,Graduate degree
+CA,Male,Right-Handed,Tennis,492,May,Water,Mathematics and statistics,8,0,5,Other
+CA,Male,Right-Handed,Tennis,1000,January,Water,Science,8,30,3,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,567,November,Water,History,8,10,1,Some college
+CA,Female,Right-Handed,Dancing,1000,May,Water,Other,9,0,0,Graduate degree
+CA,Male,Right-Handed,Tennis,800,April,Water,English,9,0,4,Graduate degree
+CA,Female,Right-Handed,Swimming,400,May,Water,Science,8,0,2,Undergraduate degree
+CA,Male,Right-Handed,Soccer,1000,February,Water,Mathematics and statistics,6,0,0,Graduate degree
+CA,Female,Right-Handed,Basketball,480,October,Water,Mathematics and statistics,10,0,2,Undergraduate degree
+CA,Male,Right-Handed,Gymnastics,400,November,Water,Mathematics and statistics,12,0,24,Graduate degree
+CA,Female,Right-Handed,Swimming,1000,May,Coffee,Science,12,6,2,Graduate degree
+CA,Male,Right-Handed,Basketball,700,September,Water,History,4,0,3,Graduate degree
+CA,Male,Right-Handed,Other,1000,February,Water,Mathematics and statistics,8,20,0,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,1000,June,Water,Mathematics and statistics,7,0,2,Graduate degree
+CA,Female,Right-Handed,Other,999,January,Tea,Science,9,6,7,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,1000,February,Water,Mathematics and statistics,7,0,2,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,600,March,Water,Science,9,5,3,Graduate degree
+CA,Female,Right-Handed,Other,775,October,Water,Science,10,0,2,Graduate degree
+CA,Male,Right-Handed,Football (American),900,November,Water,History,10,0,2,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,450,October,Water,English,5,14,0,Undergraduate degree
+CA,Male,Right-Handed,Other,700,October,Water,Physical education,11,0,2,Graduate degree
+CA,Female,Right-Handed,Football (American),743,May,Water,Computers and technology,9,0,1,Graduate degree
+CA,Female,Right-Handed,Other,545,August,Tea,Art,5,0,2,Graduate degree
+CA,Male,Right-Handed,Other,679,October,Water,Mathematics and statistics,6,16,2,Graduate degree
+CA,Male,Ambidextrous,Basketball,800,December,Water,Music,8,0,8,Graduate degree
+CA,Male,Left-Handed,Tennis,500,March,Water,Mathematics and statistics,8,0,1,Undergraduate degree
+CA,Male,Left-Handed,Baseball/Softball,701,July,Water,English,8,0,1,Undergraduate degree
+CA,Female,Right-Handed,Swimming,1000,February,Water,Art,8,0,1,Graduate degree
+CA,Male,Right-Handed,Other,600,August,Water,Other,7,0,3,Other
+CA,Male,Left-Handed,Basketball,733,April,Water,History,8,0,3,Graduate degree
+CA,Female,Right-Handed,Martial Arts,1000,June,Water,English,8,12,1,Graduate degree
+CA,Male,Right-Handed,Football (American),1000,September,Other,English,8,3,10,Graduate degree
+CA,Female,Right-Handed,Other,850,March,Water,English,10,0,3,Graduate degree
+CA,Female,Right-Handed,Other,251,July,Milk,History,9,0,2,Graduate degree
+CA,Male,Right-Handed,Football (American),818,May,Water,Mathematics and statistics,8,40,6,Graduate degree
+CA,Female,Right-Handed,Swimming,70,April,Juice,Art,9,54,54,Other
+CA,Female,Right-Handed,Basketball,700,September,Soft drink (non-caffeinated),Science,10,0,1,Graduate degree
+CA,Female,Right-Handed,Other,900,November,Water,History,8,17,1,Graduate degree
+CA,Male,Right-Handed,Soccer,999,June,Water,English,14,0,10,Graduate degree
+CA,Female,Right-Handed,Athletics,412,August,Juice,History,11,0,1,Graduate degree
+CA,Male,Right-Handed,Running/Jogging,300,April,Water,History,8,0,1,Graduate degree
+CA,Female,Right-Handed,Swimming,1000,November,Water,Art,11,0,1,Graduate degree
+CA,Male,Right-Handed,Tennis,1000,December,Juice,Physical education,14,0,2,Graduate degree
+CA,Male,Right-Handed,Tennis,840,August,Water,Music,9,2,2,Undergraduate degree
+CA,Female,Right-Handed,Running/Jogging,754,May,Water,History,8,3,3,Less than high school
+CA,Female,Left-Handed,Walking/Hiking,500,August,Water,Science,10,15,1,Graduate degree
+CA,Male,Right-Handed,Football (American),1000,August,Water,History,11,0,4,Graduate degree
+CA,Female,Right-Handed,Other,1000,August,Soft drink (non-caffeinated),Other,5,9,4,Graduate degree
+CA,Male,Right-Handed,Soccer,0,November,Water,Mathematics and statistics,9,12,7,Graduate degree
+CA,Male,Right-Handed,Football (American),4,February,Water,Other,5,0,3,Graduate degree
+CA,Female,Right-Handed,Basketball,500,October,Water,Science,11,0,1,Graduate degree
+CA,Male,Right-Handed,Soccer,1000,October,Water,History,7,0,24,Graduate degree
+CA,Female,Right-Handed,Other,1000,March,Tea,English,10,0,0,Graduate degree
+CA,Female,Left-Handed,Running/Jogging,500,November,Water,Mathematics and statistics,7,35,4,Undergraduate degree
+CA,Male,Right-Handed,Soccer,500,August,Water,Physical education,8,0,1,Some college
+CA,Female,Right-Handed,Gymnastics,50,November,Juice,Art,10,20,30,Some college
+CA,Female,Right-Handed,Walking/Hiking,935,May,Tea,History,7,0,3,Graduate degree
+CA,Female,Right-Handed,Swimming,921,July,Water,Computers and technology,9,0,0,Undergraduate degree
+CA,Male,Left-Handed,Soccer,824,January,Water,English,11,0,2,Other
+CA,Male,Right-Handed,Soccer,802,April,Water,Physical education,6,0,2,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,497,September,Water,English,5,0,2,Less than high school
+CA,Female,Right-Handed,Dancing,556,December,Water,Science,10,1,1,Graduate degree
+CA,Female,Right-Handed,Soccer,613,May,Water,Mathematics and statistics,8,0,3,Graduate degree
+CA,Male,Right-Handed,Cycling,877,September,Tea,Languages,8,0,1,Undergraduate degree
+CA,Male,Right-Handed,Soccer,500,February,Water,English,12,2,1,Undergraduate degree
+CA,Male,Right-Handed,Football (American),500,April,Water,History,10,4,1,Graduate degree
+CA,Female,Right-Handed,Swimming,500,February,Coffee,Mathematics and statistics,7,0,2,Graduate degree
+CA,Male,Right-Handed,Swimming,1000,May,Sports drink,Physical education,10,0,2,Some college
+CA,Male,Right-Handed,Soccer,800,December,Soft drink (non-caffeinated),Other,11,0,1,Graduate degree
+CA,Male,Right-Handed,Cycling,600,June,Sports drink,Music,9,8,0,Graduate degree
+CA,Female,Right-Handed,Soccer,1000,May,Water,Art,5,0,5,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,1000,November,Water,Mathematics and statistics,10,0,7,Graduate degree
+CA,Male,Right-Handed,Other,1000,May,Water,Other,10,0,0,Graduate degree
+CA,Female,Right-Handed,Gymnastics,700,July,Juice,Science,8,8,2,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,100,May,Water,Science,9,0,1,High school
+CA,Male,Right-Handed,Basketball,900,December,Water,Science,9,0,6,Graduate degree
+CA,Female,Right-Handed,Other,500,July,Water,Science,8,0,2,Graduate degree
+CA,Male,Right-Handed,Football (American),679,March,Water,Physical education,6,0,3,Other
+CA,Male,Right-Handed,Walking/Hiking,1000,February,Water,Social studies,6,0,9,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,1000,February,Water,Science,9,0,5,Graduate degree
+CA,Female,Right-Handed,Golf,2,February,Water,Mathematics and statistics,9,0,0,Undergraduate degree
+CA,Male,Right-Handed,Table Tennis,700,December,Water,Mathematics and statistics,3,10,10,Some college
+CA,Female,Right-Handed,Dancing,647,December,Water,Music,9,30,4,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,February,Water,Art,7,11,1,Graduate degree
+CA,Male,Right-Handed,Other,1000,July,Water,Art,7,0,6,Some college
+CA,Male,Right-Handed,Running/Jogging,1000,December,Tea,Other,8,0,10,Some college
+CA,Female,Right-Handed,Other,800,August,Water,Computers and technology,7,0,0,Undergraduate degree
+CA,Male,Right-Handed,Walking/Hiking,650,April,Water,English,10,0,0,Undergraduate degree
+CA,Male,Right-Handed,Other,1000,April,Water,Computers and technology,10,0,6,Graduate degree
+CA,Female,Left-Handed,Other,300,July,Coffee,Music,3,0,4,High school
+CA,Female,Right-Handed,Swimming,1000,June,Water,Science,5,40,14,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,1000,September,Water,History,11,0,0,Graduate degree
+CA,Male,Right-Handed,Basketball,317,December,Tea,Mathematics and statistics,11,0,7,Graduate degree
+CA,Female,Right-Handed,Martial Arts,807,November,Water,Art,12,0,1,Graduate degree
+CA,Female,Right-Handed,Swimming,86,September,Other,Art,7,42,5,Other
+CA,Female,Right-Handed,Other,1000,August,Water,Art,8,4,3,Undergraduate degree
+CA,Male,Right-Handed,Basketball,899,June,Water,Computers and technology,10,0,2,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,800,January,Water,Social studies,8,0,5,Graduate degree
+CA,Female,Right-Handed,Dancing,80,January,Soft drink (caffeinated),History,10,0,3,Graduate degree
+CA,Male,Left-Handed,Baseball/Softball,1000,March,Water,Mathematics and statistics,8,0,1,Graduate degree
+CA,Male,Right-Handed,Soccer,904,June,Water,Social studies,9,15,1,Undergraduate degree
+CA,Female,Right-Handed,Skateboarding/Rollerblading,600,November,Water,Art,10,0,0,Graduate degree
+CA,Male,Right-Handed,Table Tennis,750,March,Water,Computers and technology,8,0,1,Graduate degree
+CA,Male,Right-Handed,Basketball,1000,March,Water,Science,8,0,6,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,439,November,Water,Art,11,0,49,Graduate degree
+CA,Male,Right-Handed,Cycling,850,October,Soft drink (caffeinated),Mathematics and statistics,10,0,3,Some college
+CA,Male,Right-Handed,Walking/Hiking,1000,November,Water,Mathematics and statistics,9,10,0,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,603,January,Water,History,9,20,5,Other
+CA,Female,Right-Handed,Basketball,1000,April,Soft drink (caffeinated),Art,9,0,10,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,500,September,Water,English,8,0,7,Undergraduate degree
+CA,Male,Right-Handed,Soccer,820,January,Water,History,8,0,4,Graduate degree
+CA,Female,Right-Handed,Other,759,October,Juice,Mathematics and statistics,11,0,3,Graduate degree
+CA,Male,Right-Handed,Bowling,900,December,Water,History,5,0,0,Undergraduate degree
+CA,Female,Right-Handed,Baseball/Softball,390,November,Water,Social studies,5,1,2,Graduate degree
+CA,Female,Right-Handed,Skateboarding/Rollerblading,1000,March,Water,Science,9,2,14,Graduate degree
+CA,Female,Left-Handed,Golf,1000,May,Water,Computers and technology,8,15,0,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,July,Water,Art,6,0,20,Graduate degree
+CA,Male,Right-Handed,Other,930,July,Milk,English,8,0,10,Graduate degree
+CA,Female,Right-Handed,Soccer,1000,November,Water,Art,12,0,1,Graduate degree
+CA,Male,Right-Handed,Basketball,500,October,Water,Mathematics and statistics,8,3,1,Undergraduate degree
+CA,Male,Right-Handed,Soccer,600,August,Soft drink (caffeinated),Computers and technology,9,0,10,Undergraduate degree
+CA,Male,Right-Handed,Football (American),999,September,Water,Physical education,9,0,1,Graduate degree
+CA,Male,Right-Handed,Dancing,620,June,Juice,Mathematics and statistics,5,0,4,Some college
+CA,Female,Right-Handed,Tennis,900,July,Water,Science,8,4,6,Other
+CA,Male,Right-Handed,Basketball,7,April,Water,Physical education,8,0,1,Graduate degree
+CA,Male,Left-Handed,Soccer,800,June,Water,Science,10,0,1,Graduate degree
+CA,Female,Right-Handed,Other,900,September,Water,Other,8,0,1,Graduate degree
+CA,Female,Right-Handed,Swimming,588,February,Water,Science,8,0,2,Graduate degree
+CA,Male,Ambidextrous,Basketball,700,April,Sports drink,Science,5,2,3,Graduate degree
+CA,Female,Right-Handed,Dancing,1000,April,Water,English,7,20,0,Graduate degree
+CA,Male,Right-Handed,Golf,100,January,Water,Other,8,0,0,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,May,Water,Social studies,10,0,4,Graduate degree
+CA,Female,Right-Handed,Bowling,529,May,Soft drink (caffeinated),English,12,0,0,Some college
+CA,Male,Ambidextrous,Dancing,1000,January,Water,Computers and technology,4,0,2,Graduate degree
+CA,Female,Right-Handed,Soccer,877,December,Water,Physical education,9,0,5,Graduate degree
+CA,Male,Right-Handed,Lacrosse,800,May,Water,History,10,0,0,Graduate degree
+CA,Male,Right-Handed,Walking/Hiking,893,December,Water,Science,8,0,7,Graduate degree
+CA,Female,Right-Handed,Tennis,50,June,Water,Art,9,0,7,Undergraduate degree
+CA,Female,Right-Handed,Golf,1000,January,Water,Music,9,0,2,Graduate degree
+CA,Male,Right-Handed,Swimming,900,August,Water,Computers and technology,8,0,1,Graduate degree
+CA,Male,Left-Handed,Athletics,765,October,Water,Art,12,0,0,Graduate degree
+CA,Female,Left-Handed,Swimming,845,October,Water,Science,9,0,18,Graduate degree
+CA,Female,Right-Handed,Dancing,572,August,Water,Computers and technology,10,0,7,Graduate degree
+CA,Male,Left-Handed,Other,1000,January,Water,Social studies,8,0,5,Graduate degree
+CA,Male,Right-Handed,Martial Arts,650,February,Water,Computers and technology,8,0,2,Graduate degree
+CA,Female,Right-Handed,Athletics,800,October,Tea,Languages,10,0,10,Graduate degree
+CA,Male,Left-Handed,Athletics,45,August,Sports drink,English,1,2,5,High school
+CA,Male,Right-Handed,Baseball/Softball,545,March,Water,Mathematics and statistics,9,0,1,Graduate degree
+CA,Male,Right-Handed,Other,583,January,Coffee,Mathematics and statistics,9,0,3,Graduate degree
+CA,Male,Right-Handed,Basketball,900,December,Water,Mathematics and statistics,8,0,4,Undergraduate degree
+CA,Female,Right-Handed,Soccer,658,January,Water,History,9,5,5,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,701,June,Water,Mathematics and statistics,11,2,2,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,500,August,Water,History,12,0,1,Some college
+CA,Male,Right-Handed,Basketball,700,August,Soft drink (caffeinated),Computers and technology,7,0,5,Graduate degree
+CA,Female,Right-Handed,Swimming,1000,February,Water,History,9,0,2,Undergraduate degree
+CA,Male,Left-Handed,Golf,200,July,Water,Mathematics and statistics,8,0,0,Graduate degree
+CA,Female,Right-Handed,Dancing,775,May,Water,Art,8,1,3,Graduate degree
+CA,Male,Right-Handed,Athletics,900,February,Water,Science,11,0,6,Graduate degree
+CA,Female,Right-Handed,Hockey (Field),802,June,Water,Science,8,0,1,Graduate degree
+CA,Female,Right-Handed,Other,775,September,Water,Science,10,20,1,Graduate degree
+CA,Female,Left-Handed,Dancing,1000,May,Water,English,6,0,0,Other
+CA,Female,Right-Handed,Soccer,1000,November,Juice,English,12,0,5,Graduate degree
+CA,Male,Right-Handed,Walking/Hiking,700,July,Water,Languages,10,0,0,Undergraduate degree
+CA,Female,Left-Handed,Martial Arts,783,November,Tea,Science,8,8,5,Graduate degree
+CA,Female,Ambidextrous,Baseball/Softball,845,September,Water,Art,9,0,1,Graduate degree
+CA,Male,Right-Handed,Other,513,July,Water,Mathematics and statistics,12,16,0,Graduate degree
+CA,Female,Right-Handed,Other,1000,November,Water,Science,4,0,2,High school
+CA,Female,Right-Handed,Other,497,January,Water,Mathematics and statistics,8,0,7,Graduate degree
+CA,Male,Right-Handed,Basketball,1000,September,Water,Physical education,8,10,10,Some college
+CA,Female,Right-Handed,Hockey (Field),1000,July,Water,Art,9,3,0,Graduate degree
+CA,Female,Right-Handed,Gymnastics,1000,July,Water,Physical education,10,0,19,High school
+CA,Male,Right-Handed,Basketball,1000,October,Water,Computers and technology,11,0,3,High school
+CA,Female,Right-Handed,Other,1000,June,Water,Mathematics and statistics,9,0,1,Graduate degree
+CA,Male,Right-Handed,Soccer,1000,June,Sports drink,Computers and technology,10,0,6,Graduate degree
+CA,Female,Right-Handed,Soccer,727,December,Coffee,Art,7,0,1,Graduate degree
+CA,Female,Right-Handed,Athletics,503,August,Water,Physical education,15,1,5,Some college
+CA,Female,Right-Handed,Soccer,800,July,Water,English,9,2,1,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,April,Sports drink,Mathematics and statistics,12,0,1,Other
+CA,Female,Right-Handed,Athletics,800,August,Water,Art,10,25,40,Graduate degree
+CA,Male,Right-Handed,Basketball,500,December,Soft drink (caffeinated),Art,5,0,5,Undergraduate degree
+CA,Male,Right-Handed,Swimming,1000,May,Water,History,11,2,1,High school
+CA,Male,Right-Handed,Other,500,April,Water,Computers and technology,4,2,2,Graduate degree
+CA,Male,Ambidextrous,Martial Arts,775,February,Water,Computers and technology,15,0,1,Graduate degree
+CA,Female,Right-Handed,Bowling,1000,July,Water,Physical education,11,0,1,Graduate degree
+CA,Female,Right-Handed,Basketball,500,September,Sports drink,Mathematics and statistics,9,0,5,Graduate degree
+CA,Female,Right-Handed,Dancing,800,July,Coffee,Social studies,9,8,0,Undergraduate degree
+CA,Male,Right-Handed,Lacrosse,800,April,Water,History,10,0,0,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,679,July,Water,Mathematics and statistics,7,0,4,Undergraduate degree
+CA,Male,Right-Handed,Swimming,701,September,Water,Science,9,0,1,Undergraduate degree
+CA,Female,Right-Handed,Skateboarding/Rollerblading,1000,August,Water,Science,10,7,1,Some college
+CA,Male,Right-Handed,Walking/Hiking,455,December,Water,Computers and technology,8,0,3,Undergraduate degree
+CA,Male,Right-Handed,Basketball,7,April,Water,Physical education,8,0,1,Graduate degree
+CA,Male,Right-Handed,Walking/Hiking,1000,March,Water,Science,9,0,2,Graduate degree
+CA,Male,Right-Handed,Soccer,0,June,Water,Art,12,0,10,Undergraduate degree
+CA,Male,Right-Handed,Running/Jogging,1000,August,Water,Physical education,4,30,10,Less than high school
+CA,Female,Right-Handed,Other,500,May,Coffee,Science,10,0,1,Graduate degree
+CA,Female,Left-Handed,Basketball,800,September,Water,Science,9,0,2,Undergraduate degree
+CA,Male,Right-Handed,Other,800,October,Water,Computers and technology,12,0,2,Graduate degree
+CA,Female,Right-Handed,Dancing,900,January,Water,Science,9,0,4,Graduate degree
+CA,Male,Right-Handed,Other,1000,April,Water,Science,9,0,2,Graduate degree
+CA,Male,Right-Handed,Swimming,900,July,Water,Music,6,0,10,Graduate degree
+CA,Female,Right-Handed,Basketball,1000,June,Tea,Music,10,2,4,Graduate degree
+CA,Male,Right-Handed,Walking/Hiking,850,October,Water,Computers and technology,9,0,7,Graduate degree
+CA,Female,Right-Handed,Dancing,738,December,Water,Art,8,4,0,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,800,January,Water,Languages,8,7,5,Graduate degree
+CA,Male,Right-Handed,Dancing,800,December,Water,Science,8,0,0,Graduate degree
+CA,Female,Right-Handed,Golf,500,January,Water,Art,8,3,5,Graduate degree
+CA,Male,Right-Handed,Football (American),900,June,Water,Mathematics and statistics,8,5,10,Graduate degree
+CA,Female,Right-Handed,Other,1000,February,Water,Science,9,0,0,Graduate degree
+CA,Male,Right-Handed,Football (American),700,January,Water,Music,5,60,4,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,80,May,Water,Art,11,0,1,Some college
+CA,Male,Right-Handed,Soccer,700,April,Water,Physical education,11,0,2,Undergraduate degree
+CA,Male,Right-Handed,Athletics,700,November,Water,Computers and technology,10,0,0,Graduate degree
+CA,Female,Right-Handed,Swimming,700,October,Water,English,12,0,6,Graduate degree
+CA,Male,Right-Handed,Hockey (Ice),652,September,Water,History,8,19,5,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,1,April,Sports drink,Physical education,6,0,1,Graduate degree
+CA,Male,Ambidextrous,Football (American),417,January,Water,Other,7,1,1,Graduate degree
+CA,Male,Right-Handed,Football (American),500,April,Water,Physical education,9,0,5,Graduate degree
+CA,Male,Right-Handed,Other,1000,March,Energy drink,Mathematics and statistics,10,0,5,Graduate degree
+CA,Male,Right-Handed,Football (American),700,October,Water,Social studies,7,0,0,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,800,September,Water,English,6,0,2,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,791,January,Water,Mathematics and statistics,10,0,1,Graduate degree
+CA,Female,Left-Handed,Swimming,332,May,Water,Music,10,2,0,Other
+CA,Female,Right-Handed,Football (American),3,June,Other,English,10,5,7,Graduate degree
+CA,Female,Right-Handed,Soccer,1000,April,Water,Art,10,0,1,Graduate degree
+CA,Male,Right-Handed,Football (American),679,March,Water,Physical education,6,0,3,Other
+CA,Male,Right-Handed,Basketball,588,May,Water,Other,8,0,0,Graduate degree
+CA,Female,Right-Handed,Basketball,754,May,Water,Music,9,0,0,Undergraduate degree
+CA,Female,Right-Handed,Swimming,1000,September,Tea,History,8,0,2,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,519,August,Water,History,8,2,7,Graduate degree
+CA,Male,Right-Handed,Table Tennis,1000,April,Water,Mathematics and statistics,9,0,0,Graduate degree
+CA,Male,Right-Handed,Tennis,100,April,Water,Art,12,8,2,Graduate degree
+CA,Female,Right-Handed,Other,1000,August,Energy drink,Art,8,5,2,Graduate degree
+CA,Female,Right-Handed,Swimming,800,December,Water,English,8,0,5,Graduate degree
+CA,Female,Right-Handed,Soccer,100,September,Water,Science,10,1,1,Undergraduate degree
+CA,Female,Right-Handed,Walking/Hiking,700,October,Coffee,Social studies,7,0,1,Graduate degree
+CA,Male,Right-Handed,Athletics,0,August,Water,Computers and technology,9,0,5,Graduate degree
+CA,Male,Right-Handed,Tennis,767,January,Water,Mathematics and statistics,10,0,3,Undergraduate degree
+CA,Female,Left-Handed,Martial Arts,90,September,Juice,Art,11,0,3,Graduate degree
+CA,Female,Ambidextrous,Gymnastics,920,December,Water,History,10,0,3,Graduate degree
+CA,Male,Right-Handed,Basketball,1000,July,Water,Social studies,9,0,8,Graduate degree
+CA,Female,Right-Handed,Swimming,5,March,Water,History,7,0,0,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,1000,January,Water,Art,12,0,0,Graduate degree
+CA,Male,Right-Handed,Skateboarding/Rollerblading,1000,October,Water,Science,4,0,8,High school
+CA,Male,Right-Handed,Soccer,900,July,Soft drink (caffeinated),History,10,0,0,Graduate degree
+CA,Male,Left-Handed,Baseball/Softball,800,February,Water,Mathematics and statistics,9,0,2,Graduate degree
+CA,Female,Right-Handed,Other,700,December,Water,Mathematics and statistics,6,0,0,Graduate degree
+CA,Female,Right-Handed,Tennis,455,February,Water,Science,10,0,3,Undergraduate degree
+CA,Male,Left-Handed,Football (American),1000,March,Water,Music,10,0,1,Undergraduate degree
+CA,Female,Right-Handed,Swimming,1000,November,Water,Computers and technology,7,8,2,Graduate degree
+CA,Female,Right-Handed,Other,807,November,Juice,Music,8,20,6,Other
+CA,Female,Right-Handed,Soccer,750,September,Water,History,10,0,3,Graduate degree
+CA,Male,Right-Handed,Other,626,December,Water,Science,9,0,35,Graduate degree
+CA,Female,Right-Handed,Dancing,1000,November,Water,Mathematics and statistics,9,0,2,Graduate degree
+CA,Male,Right-Handed,Skateboarding/Rollerblading,1000,April,Water,Mathematics and statistics,10,0,5,Graduate degree
+CA,Male,Right-Handed,Basketball,600,December,Water,Computers and technology,9,0,1,Graduate degree
+CA,Female,Left-Handed,Walking/Hiking,845,November,Water,Mathematics and statistics,8,0,1,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,576,March,Water,Art,7,0,2,High school
+CA,Male,Right-Handed,Basketball,524,June,Milk,Science,11,0,2,Graduate degree
+CA,Male,Ambidextrous,Dancing,500,December,Juice,Mathematics and statistics,10,0,12,Graduate degree
+CA,Male,Left-Handed,Lacrosse,273,May,Water,Mathematics and statistics,9,0,2,Graduate degree
+CA,Male,Right-Handed,Skateboarding/Rollerblading,1000,July,Soft drink (caffeinated),Science,9,1,1,Graduate degree
+CA,Female,Right-Handed,Dancing,0,December,Tea,Other,9,0,5,Graduate degree
+CA,Female,Right-Handed,Dancing,674,February,Water,Art,10,0,15,Other
+CA,Male,Right-Handed,Lacrosse,626,January,Water,Science,10,0,0,Graduate degree
+CA,Male,Ambidextrous,Basketball,1000,December,Water,Art,9,2,10,Graduate degree
+CA,Male,Right-Handed,Tennis,749,September,Water,Mathematics and statistics,12,0,6,Undergraduate degree
+CA,Female,Right-Handed,Basketball,700,September,Water,Languages,10,3,4,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,1000,April,Water,Physical education,12,30,10,Some college
+CA,Male,Right-Handed,Swimming,1000,August,Water,Science,10,0,1,Some college
+CA,Male,Right-Handed,Athletics,700,May,Water,English,9,0,2,Graduate degree
+CA,Male,Left-Handed,Other,743,January,Sports drink,Music,10,0,3,Graduate degree
+CA,Female,Right-Handed,Dancing,759,April,Water,English,9,6,2,Graduate degree
+CA,Male,Right-Handed,Bowling,1000,May,Milk,Art,6,2,2,Graduate degree
+CA,Male,Right-Handed,Martial Arts,1000,February,Water,Science,7,1,2,Graduate degree
+CA,Female,Right-Handed,Swimming,1000,January,Water,Art,10,0,8,Some college
+CA,Female,Right-Handed,Basketball,1000,May,Water,Music,9,0,7,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,1000,September,Coffee,Social studies,7,0,10,Undergraduate degree
+CA,Female,Right-Handed,Soccer,500,March,Water,English,9,0,7,Undergraduate degree
+CA,Female,Left-Handed,Swimming,925,February,Water,Art,10,0,3,Some college
+CA,Male,Right-Handed,Martial Arts,770,September,Water,Other,9,0,3,Graduate degree
+CA,Female,Right-Handed,Other,600,July,Juice,Languages,7,0,2,Graduate degree
+CA,Female,Right-Handed,Athletics,610,November,Water,Music,8,0,8,Graduate degree
+CA,Male,Right-Handed,Athletics,1000,March,Water,Physical education,8,4,0,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,500,April,Water,Languages,8,0,2,Graduate degree
+CA,Male,Right-Handed,Other,690,July,Water,Art,10,0,30,Undergraduate degree
+CA,Female,Left-Handed,Martial Arts,800,April,Coffee,Art,10,0,5,Graduate degree
+CA,Male,Right-Handed,Soccer,1000,July,Water,Music,1,0,2,Graduate degree
+CA,Male,Left-Handed,Dancing,950,September,Water,English,9,5,1,Undergraduate degree
+CA,Female,Right-Handed,Golf,701,February,Soft drink (caffeinated),English,4,0,4,Other
+CA,Female,Right-Handed,Running/Jogging,690,October,Water,Mathematics and statistics,10,0,6,Undergraduate degree
+CA,Female,Right-Handed,Other,70,April,Sports drink,Other,9,0,0,Undergraduate degree
+CA,Female,Right-Handed,Basketball,636,September,Water,Languages,5,18,1,Graduate degree
+CA,Male,Right-Handed,Running/Jogging,832,February,Water,Computers and technology,6,16,10,Undergraduate degree
+CA,Female,Right-Handed,Walking/Hiking,1000,January,Water,Science,10,0,3,Graduate degree
+CA,Female,Right-Handed,Basketball,925,March,Water,Mathematics and statistics,10,0,10,Graduate degree
+CA,Male,Right-Handed,Basketball,700,August,Water,History,12,5,1,Graduate degree
+CA,Male,Right-Handed,Swimming,2,February,Water,Science,11,0,2,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,750,June,Water,Social studies,10,18,3,Graduate degree
+CA,Female,Right-Handed,Other,900,February,Water,Art,10,0,5,Undergraduate degree
+CA,Male,Left-Handed,Table Tennis,551,November,Soft drink (non-caffeinated),Other,10,6,3,Graduate degree
+CA,Female,Right-Handed,Lacrosse,900,November,Juice,Languages,9,0,4,Graduate degree
+CA,Male,Right-Handed,Basketball,198,May,Water,Science,8,0,3,Graduate degree
+CA,Male,Right-Handed,Golf,700,June,Water,Social studies,9,0,0,Graduate degree
+CA,Male,Right-Handed,Basketball,930,November,Water,Mathematics and statistics,6,20,1,Graduate degree
+CA,Female,Left-Handed,Other,733,June,Water,Art,8,0,12,Undergraduate degree
+CA,Female,Right-Handed,Skateboarding/Rollerblading,700,May,Coffee,History,10,40,2,Graduate degree
+CA,Male,Right-Handed,Soccer,900,September,Water,English,10,6,4,Graduate degree
+CA,Female,Right-Handed,Dancing,999,October,Water,Languages,9,0,1,Graduate degree
+CA,Male,Right-Handed,Baseball/Softball,650,November,Sports drink,Science,8,0,1,Graduate degree
+CA,Male,Right-Handed,Bowling,900,May,Milk,Science,10,0,2,Graduate degree
+CA,Female,Right-Handed,Baseball/Softball,800,March,Water,Art,9,0,8,Graduate degree
+CA,Female,Right-Handed,Dancing,800,March,Water,English,10,0,0,Graduate degree
+CA,Male,Right-Handed,Table Tennis,800,May,Water,Mathematics and statistics,7,0,0,Graduate degree
+CA,Male,Right-Handed,Basketball,650,January,Water,Physical education,10,0,0,Other
+CA,Male,Right-Handed,Tennis,600,April,Water,Computers and technology,9,10,3,Graduate degree
+CA,Male,Right-Handed,Tennis,90,July,Water,Computers and technology,9,0,0,Graduate degree
+CA,Female,Right-Handed,Walking/Hiking,750,March,Water,Music,9,0,3,Graduate degree
+CA,Female,Right-Handed,Soccer,925,December,Water,Mathematics and statistics,8,12,2,Graduate degree
+CA,Female,Left-Handed,Soccer,300,November,Water,Other,10,0,2,Graduate degree
+CA,Female,Right-Handed,Dancing,1000,June,Water,Other,8,0,5,Graduate degree
+CA,Male,Right-Handed,Swimming,1000,May,Water,Mathematics and statistics,11,0,1,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,850,September,Water,English,10,0,3,Graduate degree
+CA,Female,Right-Handed,Football (American),0,May,Energy drink,Science,5,3,1,Graduate degree
+CA,Female,Right-Handed,Running/Jogging,1000,September,Water,Art,8,0,2,Graduate degree
+CA,Male,Right-Handed,Cycling,1000,December,Water,Music,8,0,3,Graduate degree
+CA,Female,Right-Handed,Basketball,800,March,Water,English,10,16,11,Graduate degree
+CA,Male,Right-Handed,Martial Arts,700,December,Water,Mathematics and statistics,8,0,5,Graduate degree
+CA,Female,Right-Handed,Swimming,615,February,Water,Mathematics and statistics,9,12,1,Other
+CA,Female,Right-Handed,Other,900,January,Other,Science,9,45,15,Graduate degree
+CA,Male,Ambidextrous,Football (American),1000,December,Water,Art,4,1,2,Graduate degree
+CA,Female,Right-Handed,Other,1000,December,Water,Music,7,0,7,Graduate degree
+CA,Female,Right-Handed,Soccer,1000,May,Water,Other,11,0,21,Graduate degree
+CA,Male,Right-Handed,Football (American),781,November,Juice,Physical education,3,0,2,Graduate degree
+CA,Female,Right-Handed,Other,1000,April,Water,Mathematics and statistics,8,15,1,Graduate degree
+CA,Male,Right-Handed,Basketball,465,June,Water,Physical education,9,0,4,Some college
+CA,Female,Right-Handed,Dancing,1000,December,Water,Languages,9,0,0,Other
+CA,Female,Right-Handed,Swimming,471,June,Water,English,8,0,0,Graduate degree
+CA,Female,Right-Handed,Swimming,887,September,Soft drink (caffeinated),Science,9,0,2,Some college
+CA,Female,Right-Handed,Other,68,December,Milk,Mathematics and statistics,4,0,3,Graduate degree
+FL,Male,Right-Handed,Athletics,743,August,Water,Science,8,0,1,Graduate degree
+FL,Male,Right-Handed,Lacrosse,200,May,Water,English,12,3,0,Undergraduate degree
+FL,Male,Right-Handed,Basketball,200,February,Water,Music,10,0,2,Graduate degree
+FL,Male,Left-Handed,Other,5,September,Water,Other,7,5,5,Undergraduate degree
+FL,Male,Right-Handed,Other,850,April,Water,Science,8,2,0,Graduate degree
+FL,Female,Right-Handed,Basketball,476,December,Water,Art,9,0,1,Graduate degree
+FL,Female,Right-Handed,Swimming,0,February,Water,History,9,0,0,Undergraduate degree
+FL,Male,Right-Handed,Football (American),900,June,Soft drink (caffeinated),Mathematics and statistics,13,0,12,Graduate degree
+FL,Male,Right-Handed,Basketball,965,July,Water,History,10,0,7,Other
+FL,Female,Right-Handed,Baseball/Softball,321,March,Water,Mathematics and statistics,10,8,0,Some college
+FL,Female,Right-Handed,Other,650,January,Water,Languages,12,0,2,Graduate degree
+FL,Female,Right-Handed,Golf,900,February,Water,Mathematics and statistics,10,0,0,Graduate degree
+FL,Male,Right-Handed,Walking/Hiking,1000,March,Water,Mathematics and statistics,8,0,0,High school
+FL,Male,Right-Handed,Lacrosse,500,May,Water,Mathematics and statistics,7,0,0,Graduate degree
+FL,Female,Right-Handed,Other,500,February,Water,History,10,0,1,Graduate degree
+FL,Male,Right-Handed,Tennis,975,October,Water,Mathematics and statistics,9,0,0,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,100,January,Water,Science,8,0,0,Graduate degree
+FL,Male,Right-Handed,Other,8,January,Juice,Mathematics and statistics,10,0,0,Graduate degree
+FL,Male,Right-Handed,Gymnastics,800,June,Water,Mathematics and statistics,10,0,0,Graduate degree
+FL,Male,Ambidextrous,Martial Arts,631,August,Water,Mathematics and statistics,9,10,5,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,0,May,Water,History,8,0,0,Graduate degree
+FL,Male,Right-Handed,Other,950,March,Water,Geography,8,0,1,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,400,January,Water,Geography,10,3,5,Graduate degree
+FL,Female,Right-Handed,Lacrosse,600,January,Water,English,13,0,1,Some college
+FL,Male,Right-Handed,Swimming,600,July,Water,Science,7,0,0,Graduate degree
+FL,Female,Right-Handed,Dancing,10,January,Water,English,10,0,0,Undergraduate degree
+FL,Male,Left-Handed,Dancing,1000,January,Water,Other,10,0,3,Graduate degree
+FL,Male,Right-Handed,Walking/Hiking,536,November,Water,Other,9,0,5,Other
+FL,Male,Right-Handed,Baseball/Softball,50,March,Water,Physical education,8,15,3,Other
+FL,Male,Right-Handed,Football (American),500,January,Water,History,10,0,0,Graduate degree
+FL,Female,Right-Handed,Martial Arts,998,September,Water,History,11,0,4,Some college
+FL,Female,Right-Handed,Running/Jogging,1000,July,Water,History,10,2,10,Graduate degree
+FL,Male,Right-Handed,Basketball,500,April,Water,Physical education,10,0,1,Graduate degree
+FL,Male,Right-Handed,Rowing,750,July,Water,Mathematics and statistics,9,0,2,Graduate degree
+FL,Male,Right-Handed,Basketball,1,October,Juice,Languages,8,10,1,Less than high school
+FL,Male,Right-Handed,Rowing,0,August,Coffee,Physical education,15,0,0,High school
+FL,Male,Right-Handed,Tennis,250,October,Water,Mathematics and statistics,10,0,1,Graduate degree
+FL,Male,Right-Handed,Basketball,200,June,Soft drink (caffeinated),Mathematics and statistics,11,0,0,Graduate degree
+FL,Male,Ambidextrous,Football (American),500,July,Water,Social studies,9,0,1,Graduate degree
+FL,Female,Right-Handed,Gymnastics,6,April,Water,History,6,25,2,Other
+FL,Male,Right-Handed,Other,200,November,Water,Computers and technology,9,0,10,Graduate degree
+FL,Male,Right-Handed,Tennis,500,September,Water,Science,9,0,1,Undergraduate degree
+FL,Male,Right-Handed,Football (American),800,April,Tea,History,10,0,0,Graduate degree
+FL,Female,Right-Handed,Tennis,520,February,Other,Languages,9,0,1,Graduate degree
+FL,Female,Right-Handed,Tennis,900,October,Water,History,10,0,2,Graduate degree
+FL,Female,Right-Handed,Other,500,July,Water,History,9,0,3,Graduate degree
+FL,Female,Right-Handed,Walking/Hiking,1000,March,Water,Mathematics and statistics,10,0,3,Graduate degree
+FL,Male,Right-Handed,Football (American),0,October,Sports drink,English,10,10,1,Undergraduate degree
+FL,Female,Right-Handed,Other,1000,October,Water,Mathematics and statistics,7,30,3,Graduate degree
+FL,Male,Right-Handed,Football (American),508,October,Water,Physical education,8,14,2,High school
+FL,Female,Right-Handed,Other,500,May,Water,English,6,0,1,Graduate degree
+FL,Male,Right-Handed,Athletics,465,August,Water,Mathematics and statistics,8,0,2,Graduate degree
+FL,Male,Right-Handed,Basketball,600,December,Water,Other,9,0,1,Graduate degree
+FL,Female,Right-Handed,Other,200,April,Water,English,10,2,10,Some college
+FL,Male,Right-Handed,Basketball,1000,February,Water,History,7,12,5,Graduate degree
+FL,Male,Right-Handed,Tennis,1000,March,Water,History,9,20,10,Graduate degree
+FL,Male,Right-Handed,Bowling,700,January,Juice,Science,10,0,2,Other
+FL,Female,Right-Handed,Other,900,July,Water,Science,9,0,10,Graduate degree
+FL,Male,Right-Handed,Basketball,524,December,Soft drink (caffeinated),Mathematics and statistics,5,0,5,Graduate degree
+FL,Female,Ambidextrous,Lacrosse,700,June,Milk,Science,8,12,2,Other
+FL,Female,Right-Handed,Table Tennis,850,December,Coffee,Art,9,20,0,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,802,December,Water,History,12,0,2,Graduate degree
+FL,Female,Right-Handed,Other,1000,October,Water,Music,10,5,3,Graduate degree
+FL,Male,Right-Handed,Running/Jogging,500,December,Water,Physical education,8,20,5,Graduate degree
+FL,Male,Right-Handed,Soccer,600,March,Water,Physical education,8,0,5,Graduate degree
+FL,Female,Right-Handed,Soccer,1000,May,Water,Physical education,8,15,8,Graduate degree
+FL,Female,Right-Handed,Gymnastics,10,May,Water,English,6,1,1,Graduate degree
+FL,Male,Right-Handed,Other,1000,March,Water,History,10,0,1,Graduate degree
+FL,Male,Right-Handed,Tennis,700,December,Water,Computers and technology,8,0,9,Undergraduate degree
+FL,Female,Right-Handed,Soccer,1000,December,Water,History,12,8,0,Graduate degree
+FL,Male,Right-Handed,Basketball,500,June,Water,History,12,0,1,Graduate degree
+FL,Male,Right-Handed,Soccer,800,March,Water,History,10,0,2,Graduate degree
+FL,Male,Right-Handed,Lacrosse,749,April,Water,Science,9,0,0,Graduate degree
+FL,Female,Left-Handed,Basketball,1000,November,Water,Physical education,9,0,4,Graduate degree
+FL,Male,Left-Handed,Other,850,April,Water,Science,8,0,1,Undergraduate degree
+FL,Male,Right-Handed,Lacrosse,200,May,Water,English,12,3,0,Undergraduate degree
+FL,Female,Right-Handed,Swimming,500,December,Water,Other,10,25,4,Other
+FL,Female,Right-Handed,Athletics,600,December,Water,Mathematics and statistics,7,0,4,Graduate degree
+FL,Male,Right-Handed,Basketball,1000,February,Water,Mathematics and statistics,6,25,3,Graduate degree
+FL,Female,Right-Handed,Athletics,957,April,Water,Social studies,9,0,0,Graduate degree
+FL,Male,Right-Handed,Football (American),400,June,Soft drink (caffeinated),History,9,0,0,Graduate degree
+FL,Female,Right-Handed,Dancing,775,August,Other,History,10,0,0,Graduate degree
+FL,Male,Right-Handed,Football (American),1000,January,Soft drink (caffeinated),Mathematics and statistics,6,0,5,Graduate degree
+FL,Male,Right-Handed,Basketball,600,September,Water,Geography,9,0,2,Other
+FL,Male,Right-Handed,Soccer,900,June,Sports drink,Physical education,9,0,1,Graduate degree
+FL,Male,Right-Handed,Martial Arts,500,June,Water,Music,6,56,10,Graduate degree
+FL,Female,Right-Handed,Soccer,572,August,Water,Mathematics and statistics,10,0,0,Graduate degree
+FL,Male,Right-Handed,Soccer,800,September,Juice,History,10,0,0,Undergraduate degree
+FL,Male,Right-Handed,Other,1000,May,Juice,Mathematics and statistics,9,1,1,Graduate degree
+FL,Male,Right-Handed,Football (American),0,November,Water,Mathematics and statistics,7,0,2,Undergraduate degree
+FL,Male,Right-Handed,Lacrosse,717,April,Water,Physical education,10,0,0,Graduate degree
+FL,Female,Right-Handed,Lacrosse,100,June,Soft drink (caffeinated),Other,13,6,12,Graduate degree
+FL,Male,Right-Handed,Soccer,78,July,Water,Mathematics and statistics,10,40,2,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,400,June,Soft drink (caffeinated),Science,8,0,2,Graduate degree
+FL,Male,Right-Handed,Soccer,904,April,Juice,Mathematics and statistics,11,0,12,Graduate degree
+FL,Male,Right-Handed,Walking/Hiking,23,March,Soft drink (caffeinated),Music,6,0,3,Other
+FL,Female,Ambidextrous,Dancing,875,January,Soft drink (caffeinated),Music,4,0,36,Graduate degree
+FL,Male,Right-Handed,Soccer,500,May,Water,Mathematics and statistics,10,0,2,Graduate degree
+FL,Male,Right-Handed,Football (American),750,January,Water,Physical education,5,40,5,Other
+FL,Male,Right-Handed,Other,1000,April,Water,History,11,6,2,Graduate degree
+FL,Male,Right-Handed,Soccer,500,January,Soft drink (caffeinated),Mathematics and statistics,6,0,0,Graduate degree
+FL,Male,Left-Handed,Table Tennis,850,May,Tea,History,9,12,1,Graduate degree
+FL,Female,Right-Handed,Basketball,578,February,Water,Mathematics and statistics,9,20,15,Some college
+FL,Male,Right-Handed,Table Tennis,604,February,Water,Mathematics and statistics,9,0,2,Undergraduate degree
+FL,Female,Right-Handed,Hockey (Field),100,October,Water,Art,11,0,0,Graduate degree
+FL,Male,Left-Handed,Walking/Hiking,600,November,Water,History,5,51,10,Graduate degree
+FL,Female,Right-Handed,Other,722,June,Water,Art,9,25,1,Graduate degree
+FL,Female,Right-Handed,Football (American),125,December,Water,English,10,25,3,Some college
+FL,Male,Right-Handed,Soccer,300,March,Water,Mathematics and statistics,10,0,1,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,0,June,Water,Computers and technology,10,0,1,Graduate degree
+FL,Female,Ambidextrous,Other,800,June,Water,Science,10,3,4,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,863,June,Water,Physical education,12,0,0,Graduate degree
+FL,Female,Left-Handed,Baseball/Softball,900,November,Water,History,11,0,1,Graduate degree
+FL,Male,Right-Handed,Soccer,86,December,Water,Physical education,9,0,2,Graduate degree
+FL,Female,Ambidextrous,Basketball,1000,April,Water,English,8,40,3,Other
+FL,Female,Right-Handed,Dancing,998,March,Coffee,Social studies,6,10,1,Graduate degree
+FL,Female,Right-Handed,Other,481,December,Water,Physical education,9,0,5,Other
+FL,Female,Right-Handed,Hockey (Ice),3,March,Soft drink (caffeinated),Computers and technology,4,0,1,Graduate degree
+FL,Male,Right-Handed,Basketball,500,September,Water,Other,9,0,0,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,1000,September,Milk,Mathematics and statistics,9,0,3,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,500,April,Water,History,12,0,4,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,800,May,Water,History,9,0,4,Undergraduate degree
+FL,Male,Right-Handed,Lacrosse,700,June,Soft drink (caffeinated),History,8,0,1,Graduate degree
+FL,Female,Right-Handed,Baseball/Softball,1000,July,Coffee,English,7,0,2,Graduate degree
+FL,Male,Right-Handed,Tennis,500,December,Water,Other,7,0,0,Undergraduate degree
+FL,Male,Right-Handed,Martial Arts,1000,April,Water,Social studies,9,25,2,Graduate degree
+FL,Male,Ambidextrous,Basketball,910,April,Water,Mathematics and statistics,15,0,3,Graduate degree
+FL,Female,Left-Handed,Other,100,January,Tea,Art,11,0,5,Graduate degree
+FL,Male,Right-Handed,Basketball,0,January,Soft drink (caffeinated),Other,4,0,0,Less than high school
+FL,Female,Left-Handed,Soccer,100,June,Tea,History,10,0,1,Graduate degree
+FL,Female,Right-Handed,Other,283,January,Water,History,9,0,3,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,0,February,Water,English,5,0,3,Graduate degree
+FL,Female,Right-Handed,Dancing,380,October,Water,Mathematics and statistics,8,0,2,Graduate degree
+FL,Female,Left-Handed,Athletics,893,June,Water,Computers and technology,9,0,3,Graduate degree
+FL,Female,Left-Handed,Baseball/Softball,200,June,Milk,Art,8,6,2,Undergraduate degree
+FL,Female,Right-Handed,Lacrosse,900,November,Tea,History,12,0,4,Graduate degree
+FL,Male,Left-Handed,Football (American),100,May,Sports drink,Other,7,40,0,Graduate degree
+FL,Male,Right-Handed,Swimming,700,July,Water,Music,8,0,6,Some college
+FL,Male,Right-Handed,Lacrosse,500,August,Tea,History,11,0,0,Undergraduate degree
+FL,Male,Right-Handed,Other,1000,August,Water,Science,8,0,3,Graduate degree
+FL,Female,Right-Handed,Other,805,April,Water,Science,6,0,1,Graduate degree
+FL,Female,Right-Handed,Dancing,879,August,Water,Art,9,0,2,Graduate degree
+FL,Male,Left-Handed,Football (American),600,September,Soft drink (caffeinated),Music,10,15,4,Graduate degree
+FL,Male,Right-Handed,Lacrosse,456,June,Water,Mathematics and statistics,11,0,0,Graduate degree
+FL,Male,Right-Handed,Lacrosse,500,September,Water,Mathematics and statistics,8,5,10,Graduate degree
+FL,Male,Right-Handed,Basketball,0,January,Water,Social studies,10,4,7,Graduate degree
+FL,Male,Right-Handed,Soccer,300,October,Water,Mathematics and statistics,10,0,3,Graduate degree
+FL,Female,Right-Handed,Other,695,December,Water,History,9,12,4,Graduate degree
+FL,Male,Right-Handed,Tennis,950,July,Water,Physical education,9,0,2,Graduate degree
+FL,Female,Right-Handed,Walking/Hiking,400,November,Water,Art,12,0,1,Graduate degree
+FL,Female,Right-Handed,Dancing,840,August,Water,Science,8,0,4,Graduate degree
+FL,Male,Left-Handed,Athletics,1000,January,Water,History,8,0,3,Other
+FL,Female,Right-Handed,Dancing,1000,June,Water,Science,12,0,0,Graduate degree
+FL,Female,Left-Handed,Soccer,524,July,Other,Physical education,11,0,7,Graduate degree
+FL,Female,Right-Handed,Gymnastics,700,February,Water,Other,10,0,7,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,500,October,Soft drink (non-caffeinated),History,8,2,1,Graduate degree
+FL,Male,Right-Handed,Soccer,800,December,Juice,Science,9,0,0,Graduate degree
+FL,Male,Right-Handed,Basketball,1000,September,Water,Social studies,10,20,30,Some college
+FL,Female,Right-Handed,Other,200,February,Coffee,Science,8,20,20,Graduate degree
+FL,Male,Right-Handed,Soccer,1000,September,Water,History,6,10,10,Some college
+FL,Female,Right-Handed,Soccer,733,July,Water,History,9,15,4,Graduate degree
+FL,Female,Right-Handed,Athletics,936,December,Water,Science,10,0,4,Graduate degree
+FL,Female,Right-Handed,Golf,1000,August,Water,Languages,7,0,1,Undergraduate degree
+FL,Male,Right-Handed,Swimming,700,May,Tea,Geography,12,0,4,Graduate degree
+FL,Female,Right-Handed,Swimming,898,February,Water,History,9,0,2,Graduate degree
+FL,Male,Left-Handed,Football (American),1000,December,Soft drink (caffeinated),Mathematics and statistics,2,16,2,Some college
+FL,Female,Right-Handed,Soccer,733,December,Water,Music,5,0,4,Graduate degree
+FL,Male,Right-Handed,Other,535,August,Juice,Science,7,6,4,Graduate degree
+FL,Female,Right-Handed,Running/Jogging,840,February,Tea,Mathematics and statistics,10,0,3,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,5,April,Sports drink,Mathematics and statistics,10,0,1,Some college
+FL,Female,Right-Handed,Other,743,August,Water,Art,9,12,10,Graduate degree
+FL,Male,Right-Handed,Other,551,February,Water,Other,9,5,2,Other
+FL,Male,Left-Handed,Tennis,800,March,Sports drink,Mathematics and statistics,8,0,2,Undergraduate degree
+FL,Female,Right-Handed,Dancing,900,September,Water,Social studies,9,0,4,Graduate degree
+FL,Female,Ambidextrous,Dancing,1000,January,Water,Languages,13,0,1,Graduate degree
+FL,Female,Right-Handed,Swimming,1000,October,Water,Social studies,12,4,24,Undergraduate degree
+FL,Male,Right-Handed,Other,600,December,Water,Computers and technology,9,0,3,Graduate degree
+FL,Male,Right-Handed,Football (American),668,December,Water,Physical education,9,0,0,Graduate degree
+FL,Male,Right-Handed,Other,1000,March,Water,Other,6,24,2,Some college
+FL,Female,Right-Handed,Other,800,December,Water,Science,9,0,5,Undergraduate degree
+FL,Male,Ambidextrous,Football (American),50,June,Water,English,10,0,2,Graduate degree
+FL,Female,Right-Handed,Football (American),1000,May,Powdered drink,Physical education,10,0,0,Graduate degree
+FL,Male,Right-Handed,Lacrosse,1000,March,Water,History,5,0,4,Undergraduate degree
+FL,Female,Right-Handed,Dancing,444,March,Coffee,Science,3,5,2,Graduate degree
+FL,Male,Right-Handed,Golf,600,March,Water,Computers and technology,12,0,2,Graduate degree
+FL,Male,Right-Handed,Lacrosse,85,March,Sports drink,Science,10,0,0,Undergraduate degree
+FL,Male,Right-Handed,Table Tennis,500,December,Water,Music,8,0,0,Graduate degree
+FL,Male,Right-Handed,Athletics,900,June,Water,Physical education,6,0,2,Graduate degree
+FL,Female,Right-Handed,Baseball/Softball,250,October,Soft drink (caffeinated),English,7,6,3,Graduate degree
+FL,Female,Ambidextrous,Soccer,759,May,Juice,History,11,0,2,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,900,April,Milk,Science,10,0,3,Graduate degree
+FL,Female,Left-Handed,Swimming,900,November,Juice,English,10,0,3,Graduate degree
+FL,Female,Right-Handed,Cycling,500,May,Water,Other,8,7,0,Graduate degree
+FL,Male,Right-Handed,Skateboarding/Rollerblading,6,June,Soft drink (non-caffeinated),Music,10,0,7,Graduate degree
+FL,Female,Right-Handed,Walking/Hiking,750,April,Tea,History,7,0,2,Graduate degree
+FL,Male,Left-Handed,Tennis,532,October,Water,Music,12,0,2,Other
+FL,Female,Right-Handed,Other,1000,October,Water,Art,8,15,2,Graduate degree
+FL,Female,Left-Handed,Other,500,May,Water,Physical education,14,10,2,Undergraduate degree
+FL,Female,Right-Handed,Soccer,500,June,Water,Physical education,7,14,1,Graduate degree
+FL,Female,Right-Handed,Lacrosse,1000,April,Water,Art,5,2,1,Graduate degree
+FL,Female,Left-Handed,Gymnastics,904,November,Water,Mathematics and statistics,9,0,5,Undergraduate degree
+FL,Male,Right-Handed,Soccer,550,November,Sports drink,History,9,18,1,Undergraduate degree
+FL,Female,Right-Handed,Skateboarding/Rollerblading,1000,August,Tea,Art,5,0,0,Graduate degree
+FL,Male,Right-Handed,Other,1000,April,Water,Science,10,0,4,Graduate degree
+FL,Male,Left-Handed,Bowling,1000,January,Soft drink (caffeinated),Science,10,0,1,Graduate degree
+FL,Male,Right-Handed,Athletics,1000,August,Water,Other,10,0,4,Graduate degree
+FL,Female,Right-Handed,Soccer,950,July,Tea,Science,4,5,20,Other
+FL,Female,Right-Handed,Gymnastics,1000,March,Water,Other,10,0,6,Graduate degree
+FL,Male,Right-Handed,Soccer,900,July,Water,Mathematics and statistics,8,0,3,Graduate degree
+FL,Male,Ambidextrous,Basketball,802,July,Soft drink (non-caffeinated),Art,9,3,3,Graduate degree
+FL,Female,Right-Handed,Lacrosse,1000,May,Juice,History,10,5,2,Graduate degree
+FL,Male,Right-Handed,Football (American),800,June,Water,History,7,0,0,Graduate degree
+FL,Female,Right-Handed,Running/Jogging,1000,September,Water,Mathematics and statistics,8,0,1,Graduate degree
+FL,Female,Right-Handed,Other,150,April,Water,Science,10,6,2,Graduate degree
+FL,Male,Ambidextrous,Baseball/Softball,50,February,Water,Mathematics and statistics,10,0,2,Undergraduate degree
+FL,Male,Right-Handed,Soccer,300,January,Juice,History,10,0,2,Graduate degree
+FL,Male,Right-Handed,Soccer,860,December,Milk,Mathematics and statistics,13,0,0,Graduate degree
+FL,Male,Right-Handed,Football (American),0,February,Juice,English,7,8,8,Some college
+FL,Female,Right-Handed,Soccer,50,April,Soft drink (caffeinated),Mathematics and statistics,12,20,5,Graduate degree
+FL,Female,Right-Handed,Athletics,893,September,Coffee,Science,10,0,0,Graduate degree
+FL,Female,Right-Handed,Dancing,396,September,Water,English,10,5,7,Graduate degree
+FL,Male,Right-Handed,Basketball,1,August,Water,Physical education,12,0,2,Graduate degree
+FL,Male,Right-Handed,Skateboarding/Rollerblading,1000,October,Soft drink (caffeinated),Science,10,0,1,Graduate degree
+FL,Male,Right-Handed,Other,700,April,Water,Art,7,0,0,Graduate degree
+FL,Male,Right-Handed,Football (American),0,May,Water,History,10,10,3,Graduate degree
+FL,Female,Right-Handed,Dancing,300,May,Water,English,10,0,1,Other
+FL,Male,Right-Handed,Other,50,November,Tea,Music,7,18,6,Graduate degree
+FL,Female,Right-Handed,Gymnastics,1000,March,Water,History,8,1,1,Graduate degree
+FL,Female,Right-Handed,Other,1000,March,Water,Mathematics and statistics,9,20,3,Graduate degree
+FL,Male,Left-Handed,Basketball,487,July,Soft drink (non-caffeinated),Physical education,7,30,5,Less than high school
+FL,Male,Right-Handed,Athletics,150,April,Tea,Art,10,0,2,Graduate degree
+FL,Female,Right-Handed,Other,600,March,Water,Science,12,0,2,Graduate degree
+FL,Female,Right-Handed,Other,128,March,Juice,Mathematics and statistics,8,8,3,High school
+FL,Male,Right-Handed,Rowing,900,July,Water,Science,11,0,3,Graduate degree
+FL,Male,Right-Handed,Basketball,1,April,Water,Physical education,10,16,0,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,500,September,Powdered drink,Mathematics and statistics,8,0,5,Graduate degree
+FL,Male,Right-Handed,Golf,500,February,Water,English,10,0,1,Some college
+FL,Male,Right-Handed,Other,850,May,Water,Music,9,0,1,Undergraduate degree
+FL,Male,Right-Handed,Basketball,300,May,Milk,History,10,0,1,Graduate degree
+FL,Male,Right-Handed,Soccer,850,August,Tea,Mathematics and statistics,9,20,1,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,400,July,Water,Mathematics and statistics,7,0,4,Graduate degree
+FL,Female,Right-Handed,Cycling,947,January,Water,English,5,0,2,Graduate degree
+FL,Male,Right-Handed,Football (American),500,November,Water,Mathematics and statistics,8,0,0,Graduate degree
+FL,Male,Right-Handed,Soccer,674,February,Water,Mathematics and statistics,10,0,5,Graduate degree
+FL,Male,Right-Handed,Swimming,700,May,Water,Science,12,0,2,Graduate degree
+FL,Male,Right-Handed,Other,481,November,Water,Physical education,11,16,1,Graduate degree
+FL,Male,Right-Handed,Football (American),822,August,Water,Physical education,9,0,1,Undergraduate degree
+FL,Male,Right-Handed,Walking/Hiking,950,May,Water,Social studies,8,12,8,Graduate degree
+FL,Female,Right-Handed,Lacrosse,631,June,Water,Science,8,0,2,Graduate degree
+FL,Male,Right-Handed,Basketball,800,February,Water,Mathematics and statistics,8,0,5,Graduate degree
+FL,Female,Right-Handed,Soccer,400,November,Water,Social studies,10,0,5,Graduate degree
+FL,Male,Right-Handed,Basketball,500,July,Water,Physical education,9,0,0,Undergraduate degree
+FL,Female,Right-Handed,Basketball,545,August,Water,Mathematics and statistics,10,2,2,Graduate degree
+FL,Female,Right-Handed,Running/Jogging,700,June,Water,English,8,0,7,Graduate degree
+FL,Male,Right-Handed,Walking/Hiking,300,March,Tea,History,8,0,5,Graduate degree
+FL,Male,Right-Handed,Skateboarding/Rollerblading,950,December,Water,Art,8,4,1,Some college
+FL,Male,Right-Handed,Soccer,856,May,Water,Computers and technology,9,8,15,Graduate degree
+FL,Female,Ambidextrous,Tennis,999,March,Water,Art,10,0,0,High school
+FL,Male,Right-Handed,Martial Arts,1000,December,Water,Social studies,12,1,1,Graduate degree
+FL,Female,Right-Handed,Other,600,August,Water,Science,12,0,0,Graduate degree
+FL,Male,Right-Handed,Basketball,500,October,Soft drink (caffeinated),Mathematics and statistics,9,0,6,Graduate degree
+FL,Male,Right-Handed,Lacrosse,250,July,Tea,Physical education,9,0,9,Graduate degree
+FL,Male,Right-Handed,Tennis,800,April,Water,History,10,0,5,Undergraduate degree
+FL,Male,Right-Handed,Table Tennis,800,February,Water,Music,10,0,2,Graduate degree
+FL,Male,Right-Handed,Swimming,700,July,Water,Music,8,0,6,Some college
+FL,Female,Right-Handed,Swimming,450,August,Juice,Mathematics and statistics,10,0,10,Graduate degree
+FL,Male,Ambidextrous,Running/Jogging,500,August,Soft drink (caffeinated),History,9,2,3,Graduate degree
+FL,Male,Right-Handed,Football (American),500,February,Sports drink,Science,8,0,0,Graduate degree
+FL,Female,Right-Handed,Soccer,1000,September,Water,Languages,8,24,10,Graduate degree
+FL,Male,Right-Handed,Soccer,900,April,Water,Science,9,10,10,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,800,September,Water,Science,10,0,0,Graduate degree
+FL,Male,Right-Handed,Rowing,500,July,Water,Mathematics and statistics,9,0,0,Graduate degree
+FL,Male,Right-Handed,Running/Jogging,631,November,Water,Art,9,2,2,Graduate degree
+FL,Male,Right-Handed,Hockey (Ice),500,May,Soft drink (caffeinated),Science,8,6,6,Graduate degree
+FL,Male,Right-Handed,Other,1000,December,Water,Science,10,16,25,Graduate degree
+FL,Female,Right-Handed,Tennis,0,August,Water,English,8,0,5,Graduate degree
+FL,Female,Right-Handed,Swimming,40,July,Juice,Science,11,0,0,Graduate degree
+FL,Female,Right-Handed,Other,1000,November,Water,Science,8,22,12,Graduate degree
+FL,Male,Right-Handed,Golf,10,June,Water,English,10,10,0,Graduate degree
+FL,Female,Right-Handed,Other,500,October,Water,English,12,0,2,Graduate degree
+FL,Male,Right-Handed,Athletics,700,October,Water,Science,9,0,2,Graduate degree
+FL,Female,Ambidextrous,Athletics,431,February,Water,Social studies,11,0,0,Graduate degree
+FL,Male,Right-Handed,Basketball,2,January,Water,Physical education,9,0,0,Some college
+FL,Male,Right-Handed,Football (American),8,October,Sports drink,Physical education,10,4,0,Graduate degree
+FL,Male,Right-Handed,Basketball,500,December,Powdered drink,Science,9,2,6,Graduate degree
+FL,Male,Right-Handed,Hockey (Ice),1000,May,Water,History,5,20,0,Graduate degree
+FL,Male,Right-Handed,Tennis,230,November,Water,Computers and technology,10,0,1,Graduate degree
+FL,Male,Right-Handed,Basketball,950,December,Powdered drink,Physical education,10,0,2,Graduate degree
+FL,Female,Right-Handed,Other,100,May,Water,Art,10,0,2,Graduate degree
+FL,Male,Left-Handed,Tennis,600,November,Water,Other,8,0,2,Undergraduate degree
+FL,Male,Right-Handed,Other,900,July,Tea,Music,8,0,2,Graduate degree
+FL,Female,Right-Handed,Lacrosse,1000,February,Juice,Science,10,8,3,Undergraduate degree
+FL,Male,Right-Handed,Rowing,900,May,Water,Mathematics and statistics,8,0,0,Graduate degree
+FL,Female,Right-Handed,Other,914,August,Water,English,12,0,0,Graduate degree
+FL,Female,Right-Handed,Hockey (Field),0,December,Water,Physical education,6,0,0,Graduate degree
+FL,Female,Right-Handed,Gymnastics,500,April,Tea,English,6,20,10,Graduate degree
+FL,Male,Right-Handed,Football (American),0,November,Water,History,9,0,6,Graduate degree
+FL,Male,Right-Handed,Basketball,1000,May,Water,Science,9,12,2,Graduate degree
+FL,Female,Right-Handed,Baseball/Softball,786,October,Water,Science,10,0,7,Graduate degree
+FL,Male,Left-Handed,Football (American),1000,October,Water,Physical education,4,20,7,Graduate degree
+FL,Male,Right-Handed,Soccer,910,February,Water,Mathematics and statistics,9,0,4,Other
+FL,Female,Right-Handed,Running/Jogging,700,September,Water,Science,10,16,28,Graduate degree
+FL,Female,Right-Handed,Dancing,1000,January,Water,English,8,0,2,Graduate degree
+FL,Female,Right-Handed,Athletics,866,December,Coffee,Other,8,30,2,Graduate degree
+FL,Female,Right-Handed,Swimming,1000,January,Energy drink,Art,8,0,6,Graduate degree
+FL,Female,Right-Handed,Gymnastics,800,April,Energy drink,Other,8,25,0,Graduate degree
+FL,Male,Right-Handed,Basketball,100,June,Soft drink (caffeinated),Social studies,4,0,1,Graduate degree
+FL,Female,Right-Handed,Athletics,1000,July,Water,Science,6,4,2,Other
+FL,Male,Right-Handed,Football (American),626,January,Water,Science,11,0,3,Graduate degree
+FL,Male,Right-Handed,Athletics,5,November,Water,Other,4,0,0,Undergraduate degree
+FL,Female,Ambidextrous,Skateboarding/Rollerblading,900,December,Water,Mathematics and statistics,4,19,3,Other
+FL,Male,Right-Handed,Lacrosse,802,May,Water,Science,12,40,30,Graduate degree
+FL,Female,Right-Handed,Other,2,May,Water,Art,7,0,3,High school
+FL,Female,Right-Handed,Swimming,300,May,Water,Social studies,10,0,5,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,950,January,Water,Science,8,0,1,Graduate degree
+FL,Female,Right-Handed,Baseball/Softball,710,September,Water,Science,8,21,3,Graduate degree
+FL,Male,Left-Handed,Football (American),600,February,Water,Mathematics and statistics,10,0,0,Graduate degree
+FL,Male,Right-Handed,Soccer,800,October,Water,Mathematics and statistics,10,0,2,Graduate degree
+FL,Female,Right-Handed,Other,8,June,Soft drink (caffeinated),Science,8,0,0,High school
+FL,Male,Right-Handed,Dancing,551,December,Water,Art,10,0,20,Graduate degree
+FL,Female,Right-Handed,Football (American),550,December,Water,Science,11,10,1,Graduate degree
+FL,Female,Right-Handed,Other,465,August,Water,Science,11,0,1,Graduate degree
+FL,Female,Right-Handed,Other,500,July,Coffee,English,10,2,0,Undergraduate degree
+FL,Female,Right-Handed,Other,786,May,Water,Art,9,0,2,Graduate degree
+FL,Male,Left-Handed,Athletics,500,November,Milk,English,9,18,0,Some college
+FL,Female,Right-Handed,Swimming,900,August,Water,Languages,10,0,10,Graduate degree
+FL,Male,Right-Handed,Other,600,January,Water,Science,9,4,1,Some college
+FL,Male,Left-Handed,Football (American),500,March,Water,English,10,0,1,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,750,January,Water,Other,8,10,5,Other
+FL,Male,Left-Handed,Martial Arts,1000,July,Energy drink,Physical education,12,0,9,Graduate degree
+FL,Male,Right-Handed,Football (American),300,April,Juice,English,9,0,0,Graduate degree
+FL,Female,Left-Handed,Gymnastics,631,June,Water,History,8,0,2,Graduate degree
+FL,Male,Right-Handed,Golf,700,June,Water,Mathematics and statistics,9,0,2,Graduate degree
+FL,Male,Right-Handed,Running/Jogging,733,August,Soft drink (caffeinated),Science,7,0,0,Graduate degree
+FL,Male,Right-Handed,Baseball/Softball,200,January,Water,Science,10,30,7,Graduate degree
+FL,Female,Right-Handed,Tennis,348,April,Water,Mathematics and statistics,6,0,40,Graduate degree
+FL,Male,Right-Handed,Football (American),500,January,Water,Other,11,0,5,Graduate degree
+FL,Female,Right-Handed,Swimming,100,August,Water,History,7,0,5,Graduate degree
+FL,Female,Right-Handed,Other,1000,September,Water,English,10,25,2,Undergraduate degree
+FL,Male,Right-Handed,Tennis,500,October,Soft drink (caffeinated),Other,9,0,5,Graduate degree
+FL,Male,Right-Handed,Basketball,750,March,Water,Science,5,0,5,Graduate degree
+FL,Male,Right-Handed,Skateboarding/Rollerblading,6,June,Soft drink (non-caffeinated),Music,10,0,7,Graduate degree
+FL,Male,Right-Handed,Athletics,900,February,Water,Computers and technology,12,0,3,Graduate degree
+FL,Female,Right-Handed,Swimming,700,November,Water,Art,9,0,1,Graduate degree
+FL,Female,Ambidextrous,Running/Jogging,1000,October,Water,Mathematics and statistics,8,0,5,Graduate degree
+FL,Male,Right-Handed,Golf,500,December,Energy drink,Art,5,0,2,Some college
+FL,Female,Right-Handed,Running/Jogging,1000,October,Water,English,9,0,2,Undergraduate degree
+FL,Female,Right-Handed,Dancing,1000,July,Water,Other,10,0,2,Graduate degree
+FL,Male,Right-Handed,Running/Jogging,750,May,Water,History,10,15,2,Graduate degree
+FL,Male,Right-Handed,Lacrosse,0,December,Energy drink,Other,3,60,0,Graduate degree
+FL,Female,Left-Handed,Martial Arts,500,March,Soft drink (caffeinated),Art,9,0,0,Other
+FL,Female,Right-Handed,Other,658,September,Juice,Science,9,0,0,Graduate degree
+FL,Male,Left-Handed,Soccer,500,January,Water,Music,10,0,0,Graduate degree
+FL,Male,Right-Handed,Rowing,1000,August,Water,Science,10,0,5,Graduate degree
+FL,Female,Right-Handed,Other,727,January,Water,Mathematics and statistics,10,0,7,Undergraduate degree
+FL,Male,Right-Handed,Baseball/Softball,100,November,Water,Languages,10,0,2,Undergraduate degree
+FL,Female,Right-Handed,Athletics,500,July,Tea,Physical education,10,35,7,Graduate degree
+FL,Male,Left-Handed,Swimming,752,December,Water,Mathematics and statistics,9,0,0,Graduate degree
+FL,Female,Right-Handed,Dancing,706,September,Juice,Mathematics and statistics,8,10,2,Graduate degree
+FL,Male,Ambidextrous,Tennis,400,January,Soft drink (caffeinated),Computers and technology,12,0,0,Other
+FL,Male,Right-Handed,Lacrosse,529,January,Water,History,5,0,4,Graduate degree
+FL,Female,Right-Handed,Swimming,985,April,Juice,English,10,0,1,Graduate degree
+FL,Female,Right-Handed,Gymnastics,900,May,Water,Art,7,30,4,Graduate degree
+FL,Male,Right-Handed,Basketball,500,December,Soft drink (caffeinated),Mathematics and statistics,10,10,2,Graduate degree
+FL,Male,Left-Handed,Baseball/Softball,557,May,Water,History,11,0,0,Graduate degree
+FL,Female,Right-Handed,Swimming,95,January,Tea,Art,10,0,1,Graduate degree
+FL,Male,Right-Handed,Other,500,October,Tea,Other,8,4,4,Graduate degree
+FL,Female,Right-Handed,Gymnastics,500,November,Water,Science,8,10,10,Some college
+NY,Female,Right-Handed,Other,900,March,Water,Mathematics and statistics,6,20,1,Undergraduate degree
+NY,Female,Right-Handed,Dancing,781,February,Soft drink (non-caffeinated),Music,9,1,2,Graduate degree
+NY,Male,Left-Handed,Dancing,700,November,Juice,Music,10,0,3,Graduate degree
+NY,Male,Ambidextrous,Soccer,1000,September,Water,History,10,60,3,Graduate degree
+NY,Female,Right-Handed,Other,500,November,Water,Science,12,0,2,Graduate degree
+NY,Female,Right-Handed,Athletics,1000,September,Water,Art,11,0,0,Undergraduate degree
+NY,Male,Right-Handed,Baseball/Softball,700,June,Water,History,9,0,0,Other
+NY,Male,Right-Handed,Other,750,June,Water,Mathematics and statistics,8,0,2,Graduate degree
+NY,Female,Right-Handed,Tennis,1000,October,Water,History,9,0,0,Graduate degree
+NY,Male,Right-Handed,Soccer,695,March,Soft drink (non-caffeinated),History,9,0,0,Graduate degree
+NY,Female,Right-Handed,Running/Jogging,882,December,Water,Science,9,0,2,Undergraduate degree
+NY,Female,Right-Handed,Gymnastics,750,November,Water,Other,10,0,2,Graduate degree
+NY,Male,Ambidextrous,Football (American),127,July,Soft drink (caffeinated),Computers and technology,3,40,1,Graduate degree
+NY,Male,Right-Handed,Hockey (Ice),0,February,Milk,Science,9,11,9,Less than high school
+NY,Female,Right-Handed,Walking/Hiking,90,December,Water,Art,11,0,2,Graduate degree
+NY,Male,Right-Handed,Basketball,900,December,Water,Physical education,9,12,2,Undergraduate degree
+NY,Male,Right-Handed,Martial Arts,1000,March,Water,Physical education,14,0,0,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,800,February,Water,English,6,0,8,Graduate degree
+NY,Male,Ambidextrous,Golf,890,July,Water,History,7,12,3,Graduate degree
+NY,Male,Right-Handed,Cycling,760,May,Water,Languages,9,0,2,Undergraduate degree
+NY,Male,Right-Handed,Football (American),1000,November,Milk,History,10,8,8,Graduate degree
+NY,Female,Right-Handed,Soccer,950,October,Water,History,11,0,0,Graduate degree
+NY,Female,Right-Handed,Bowling,759,April,Water,Art,9,0,7,Graduate degree
+NY,Female,Right-Handed,Soccer,800,November,Coffee,Physical education,10,0,4,Graduate degree
+NY,Female,Left-Handed,Tennis,900,July,Water,English,10,0,2,Graduate degree
+NY,Male,Right-Handed,Lacrosse,700,June,Water,Mathematics and statistics,7,0,20,Graduate degree
+NY,Male,Right-Handed,Walking/Hiking,960,January,Water,History,9,0,5,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,988,October,Water,Art,9,0,5,Graduate degree
+NY,Female,Right-Handed,Martial Arts,900,August,Water,Music,8,0,4,Some college
+NY,Female,Right-Handed,Basketball,1000,December,Water,English,9,7,1,Graduate degree
+NY,Female,Right-Handed,Soccer,594,December,Water,Art,8,20,10,Undergraduate degree
+NY,Female,Right-Handed,Athletics,1000,July,Water,Physical education,5,12,5,Undergraduate degree
+NY,Female,Right-Handed,Dancing,904,April,Juice,Other,9,5,7,Undergraduate degree
+NY,Female,Right-Handed,Swimming,2,June,Water,Science,8,0,2,Undergraduate degree
+NY,Male,Right-Handed,Soccer,1000,October,Water,Art,8,0,0,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,800,December,Coffee,Social studies,9,0,5,Graduate degree
+NY,Male,Right-Handed,Hockey (Ice),500,August,Tea,Science,4,10,0,Graduate degree
+NY,Female,Right-Handed,Swimming,749,February,Milk,Social studies,7,0,1,Graduate degree
+NY,Female,Right-Handed,Athletics,900,August,Juice,Mathematics and statistics,9,0,2,Graduate degree
+NY,Male,Left-Handed,Football (American),400,December,Sports drink,English,9,0,5,Undergraduate degree
+NY,Male,Right-Handed,Soccer,898,March,Water,Other,8,1,3,Undergraduate degree
+NY,Female,Right-Handed,Bowling,600,September,Juice,Social studies,8,0,3,Undergraduate degree
+NY,Male,Right-Handed,Football (American),1000,March,Water,Physical education,10,0,1,Undergraduate degree
+NY,Male,Right-Handed,Swimming,700,January,Water,Mathematics and statistics,6,12,3,Other
+NY,Female,Right-Handed,Other,95,November,Water,Languages,10,6,1,Graduate degree
+NY,Male,Right-Handed,Hockey (Ice),888,July,Water,English,8,0,1,Graduate degree
+NY,Female,Right-Handed,Swimming,460,May,Powdered drink,Mathematics and statistics,9,0,2,Graduate degree
+NY,Male,Right-Handed,Football (American),920,August,Water,Computers and technology,9,18,2,Graduate degree
+NY,Female,Right-Handed,Swimming,754,September,Water,Physical education,6,0,1,Some college
+NY,Male,Right-Handed,Running/Jogging,583,January,Water,Science,2,0,0,High school
+NY,Female,Right-Handed,Basketball,70,May,Water,Mathematics and statistics,8,0,4,Graduate degree
+NY,Male,Ambidextrous,Football (American),791,May,Water,Physical education,7,0,4,Undergraduate degree
+NY,Male,Right-Handed,Basketball,1000,August,Sports drink,Physical education,4,20,10,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,898,April,Water,History,8,0,0,Graduate degree
+NY,Female,Right-Handed,Soccer,973,January,Water,Other,10,0,15,Graduate degree
+NY,Female,Right-Handed,Swimming,60,May,Water,Mathematics and statistics,9,0,2,Graduate degree
+NY,Male,Right-Handed,Football (American),305,June,Water,Social studies,12,14,7,Other
+NY,Male,Ambidextrous,Football (American),428,November,Water,Other,12,0,7,Undergraduate degree
+NY,Female,Right-Handed,Dancing,1000,June,Water,Social studies,9,2,5,Undergraduate degree
+NY,Female,Right-Handed,Running/Jogging,1000,June,Water,English,8,0,1,Some college
+NY,Female,Right-Handed,Tennis,950,August,Juice,English,11,0,2,Some college
+NY,Female,Right-Handed,Baseball/Softball,500,October,Water,Art,8,0,2,Graduate degree
+NY,Female,Right-Handed,Swimming,750,July,Juice,Art,10,8,1,Graduate degree
+NY,Female,Right-Handed,Dancing,487,October,Water,Science,9,0,5,Graduate degree
+NY,Male,Right-Handed,Football (American),500,June,Water,English,8,0,1,Graduate degree
+NY,Male,Right-Handed,Bowling,481,April,Juice,English,4,7,1,Some college
+NY,Male,Right-Handed,Baseball/Softball,780,March,Water,Physical education,10,0,0,Graduate degree
+NY,Female,Left-Handed,Basketball,369,May,Other,Physical education,10,0,0,Graduate degree
+NY,Male,Right-Handed,Football (American),1000,December,Water,Physical education,8,0,7,Other
+NY,Female,Right-Handed,Other,800,August,Water,Science,9,6,4,Graduate degree
+NY,Male,Right-Handed,Basketball,818,September,Water,History,11,15,5,Graduate degree
+NY,Male,Right-Handed,Tennis,900,March,Water,Music,10,0,1,Graduate degree
+NY,Female,Right-Handed,Dancing,700,February,Soft drink (non-caffeinated),History,6,3,4,Some college
+NY,Male,Right-Handed,Basketball,1000,June,Water,Science,4,0,2,Undergraduate degree
+NY,Female,Right-Handed,Swimming,770,December,Water,Science,10,0,5,Graduate degree
+NY,Female,Right-Handed,Other,700,May,Tea,Social studies,13,0,1,Graduate degree
+NY,Male,Right-Handed,Athletics,0,August,Water,Computers and technology,6,0,5,Some college
+NY,Male,Left-Handed,Bowling,102,December,Soft drink (caffeinated),Science,12,16,2,High school
+NY,Female,Right-Handed,Swimming,695,February,Water,Art,9,0,21,Graduate degree
+NY,Male,Left-Handed,Tennis,690,June,Water,Mathematics and statistics,5,30,0,Graduate degree
+NY,Male,Right-Handed,Other,1000,June,Water,Mathematics and statistics,6,0,4,Graduate degree
+NY,Male,Ambidextrous,Running/Jogging,950,June,Water,Science,8,0,2,Graduate degree
+NY,Female,Right-Handed,Athletics,1000,June,Water,English,9,0,5,Other
+NY,Male,Left-Handed,Martial Arts,824,July,Water,Computers and technology,7,0,3,Some college
+NY,Male,Right-Handed,Soccer,970,June,Water,Social studies,9,1,2,Other
+NY,Male,Right-Handed,Basketball,930,April,Tea,Other,8,0,4,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,January,Milk,Science,9,0,1,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,April,Water,Mathematics and statistics,12,0,3,Graduate degree
+NY,Female,Right-Handed,Tennis,1000,August,Tea,History,10,4,56,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,900,November,Water,History,8,0,1,Graduate degree
+NY,Male,Right-Handed,Bowling,850,June,Water,Mathematics and statistics,8,16,2,Graduate degree
+NY,Female,Right-Handed,Soccer,800,May,Coffee,Science,10,5,1,Graduate degree
+NY,Female,Right-Handed,Gymnastics,1000,August,Water,Science,12,0,5,Graduate degree
+NY,Male,Left-Handed,Basketball,700,January,Water,Mathematics and statistics,8,8,1,Undergraduate degree
+NY,Female,Right-Handed,Cycling,900,March,Tea,Art,8,22,6,Undergraduate degree
+NY,Female,Right-Handed,Soccer,1000,November,Milk,Art,10,0,0,Graduate degree
+NY,Male,Right-Handed,Skateboarding/Rollerblading,1000,October,Tea,Art,8,0,3,Other
+NY,Male,Ambidextrous,Baseball/Softball,374,October,Milk,Physical education,9,2,30,Undergraduate degree
+NY,Male,Right-Handed,Soccer,1000,November,Water,Social studies,12,0,8,Graduate degree
+NY,Female,Right-Handed,Dancing,1000,March,Water,Mathematics and statistics,10,0,1,Graduate degree
+NY,Male,Right-Handed,Walking/Hiking,893,October,Milk,History,10,0,2,High school
+NY,Female,Right-Handed,Other,1000,August,Tea,Science,9,0,5,Graduate degree
+NY,Female,Right-Handed,Soccer,506,November,Coffee,Physical education,8,25,5,Some college
+NY,Male,Left-Handed,Soccer,900,December,Water,Social studies,12,0,5,Graduate degree
+NY,Female,Right-Handed,Lacrosse,700,February,Water,History,9,5,4,Graduate degree
+NY,Female,Right-Handed,Other,802,June,Juice,Music,12,15,5,Undergraduate degree
+NY,Female,Right-Handed,Cycling,750,November,Water,Mathematics and statistics,8,0,5,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,385,December,Sports drink,Physical education,7,3,4,Some college
+NY,Male,Right-Handed,Other,684,September,Coffee,Science,11,3,1,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,May,Water,English,11,0,2,Other
+NY,Male,Right-Handed,Other,642,August,Tea,English,1,0,6,Graduate degree
+NY,Male,Right-Handed,Other,1000,August,Water,Mathematics and statistics,10,0,1,Graduate degree
+NY,Female,Right-Handed,Hockey (Field),519,March,Water,Mathematics and statistics,10,8,8,Graduate degree
+NY,Male,Right-Handed,Football (American),0,June,Water,History,10,0,0,Graduate degree
+NY,Male,Right-Handed,Lacrosse,300,January,Water,Science,6,15,10,Graduate degree
+NY,Female,Right-Handed,Other,600,November,Water,English,8,15,0,Some college
+NY,Male,Right-Handed,Running/Jogging,1,May,Water,Mathematics and statistics,9,7,2,Graduate degree
+NY,Female,Right-Handed,Swimming,800,October,Tea,Art,4,0,6,Graduate degree
+NY,Female,Right-Handed,Other,1000,March,Juice,Art,5,0,7,Graduate degree
+NY,Female,Right-Handed,Football (American),727,November,Water,Art,4,30,5,Graduate degree
+NY,Female,Right-Handed,Cycling,900,April,Water,Mathematics and statistics,7,5,0,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,December,Water,Science,12,10,3,Graduate degree
+NY,Male,Ambidextrous,Basketball,674,July,Energy drink,Languages,9,0,2,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,800,February,Coffee,Mathematics and statistics,10,24,4,Graduate degree
+NY,Female,Right-Handed,Other,1000,December,Water,English,9,0,1,Graduate degree
+NY,Male,Right-Handed,Other,900,December,Water,Social studies,8,6,1,Graduate degree
+NY,Female,Right-Handed,Soccer,631,August,Juice,Art,8,4,2,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,May,Water,Science,12,0,0,Undergraduate degree
+NY,Female,Right-Handed,Soccer,679,June,Water,English,11,4,2,Graduate degree
+NY,Female,Right-Handed,Basketball,1000,August,Water,Mathematics and statistics,9,0,6,Graduate degree
+NY,Female,Left-Handed,Other,503,August,Juice,Art,9,1,1,Some college
+NY,Male,Right-Handed,Soccer,1000,April,Water,History,8,1,2,Undergraduate degree
+NY,Female,Left-Handed,Walking/Hiking,1000,November,Water,Science,8,0,0,Undergraduate degree
+NY,Male,Right-Handed,Soccer,1000,May,Water,Science,9,4,8,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,900,April,Water,Science,11,0,0,Graduate degree
+NY,Male,Right-Handed,Other,600,October,Water,Science,8,4,2,Graduate degree
+NY,Male,Right-Handed,Martial Arts,765,November,Water,Science,7,27,4,Graduate degree
+NY,Male,Right-Handed,Athletics,1000,September,Water,History,9,0,0,Graduate degree
+NY,Male,Right-Handed,Swimming,700,June,Soft drink (non-caffeinated),History,9,6,6,Undergraduate degree
+NY,Female,Right-Handed,Other,700,March,Soft drink (non-caffeinated),Mathematics and statistics,8,20,1,Graduate degree
+NY,Female,Right-Handed,Soccer,610,October,Juice,Mathematics and statistics,8,0,3,Graduate degree
+NY,Female,Left-Handed,Dancing,700,October,Juice,Art,10,0,0,Graduate degree
+NY,Male,Right-Handed,Swimming,500,March,Water,Mathematics and statistics,10,0,10,Graduate degree
+NY,Female,Ambidextrous,Other,1000,February,Soft drink (caffeinated),Music,10,30,10,Some college
+NY,Female,Right-Handed,Other,1000,April,Water,Art,9,5,10,Graduate degree
+NY,Male,Right-Handed,Soccer,250,July,Water,Mathematics and statistics,7,0,0,Graduate degree
+NY,Male,Right-Handed,Football (American),0,September,Water,Computers and technology,6,18,7,Undergraduate degree
+NY,Male,Right-Handed,Basketball,100,March,Juice,Other,8,5,6,Some college
+NY,Male,Right-Handed,Bowling,900,June,Water,Mathematics and statistics,8,0,1,Graduate degree
+NY,Male,Right-Handed,Basketball,600,December,Sports drink,Physical education,5,3,3,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,300,May,Sports drink,History,10,10,1,Graduate degree
+NY,Male,Left-Handed,Baseball/Softball,800,March,Water,English,9,0,10,Graduate degree
+NY,Male,Right-Handed,Cycling,754,February,Water,Science,8,0,5,Graduate degree
+NY,Female,Right-Handed,Athletics,1000,February,Water,Science,10,0,5,Graduate degree
+NY,Female,Left-Handed,Dancing,1000,February,Water,English,10,0,5,Graduate degree
+NY,Female,Right-Handed,Other,500,September,Water,Mathematics and statistics,9,25,15,Graduate degree
+NY,Female,Right-Handed,Swimming,500,October,Other,Mathematics and statistics,10,8,11,Graduate degree
+NY,Female,Left-Handed,Lacrosse,600,March,Water,Physical education,8,0,1,Graduate degree
+NY,Male,Left-Handed,Soccer,0,May,Juice,Physical education,10,0,1,Graduate degree
+NY,Female,Right-Handed,Athletics,5,May,Water,English,10,0,6,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,720,November,Juice,Other,10,0,0,Undergraduate degree
+NY,Male,Right-Handed,Tennis,700,March,Tea,Mathematics and statistics,11,0,0,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,June,Water,Mathematics and statistics,7,6,2,Graduate degree
+NY,Male,Right-Handed,Swimming,849,May,Water,Mathematics and statistics,8,3,5,Graduate degree
+NY,Female,Right-Handed,Swimming,500,January,Water,Computers and technology,9,0,12,Graduate degree
+NY,Male,Right-Handed,Lacrosse,465,March,Water,History,6,2,1,Graduate degree
+NY,Female,Right-Handed,Soccer,400,January,Other,Art,9,0,2,Graduate degree
+NY,Female,Right-Handed,Soccer,1000,November,Water,History,11,25,10,Graduate degree
+NY,Female,Right-Handed,Athletics,1000,February,Water,Languages,8,0,2,Graduate degree
+NY,Female,Right-Handed,Soccer,950,May,Water,English,9,12,14,Graduate degree
+NY,Female,Right-Handed,Other,600,April,Water,Science,12,12,3,Graduate degree
+NY,Male,Right-Handed,Soccer,400,July,Water,Social studies,9,0,2,Graduate degree
+NY,Female,Right-Handed,Soccer,600,June,Water,Mathematics and statistics,9,8,5,Graduate degree
+NY,Female,Right-Handed,Cycling,893,January,Tea,Languages,10,15,4,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,July,Water,English,9,0,2,Graduate degree
+NY,Male,Right-Handed,Basketball,610,November,Water,Languages,11,0,2,Undergraduate degree
+NY,Male,Right-Handed,Baseball/Softball,780,March,Water,Physical education,10,0,0,Graduate degree
+NY,Male,Right-Handed,Soccer,594,December,Water,Computers and technology,11,0,2,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,600,November,Water,Computers and technology,10,0,2,Graduate degree
+NY,Male,Right-Handed,Other,144,September,Water,Social studies,9,0,1,Graduate degree
+NY,Female,Right-Handed,Dancing,759,December,Water,Mathematics and statistics,10,8,5,Other
+NY,Male,Right-Handed,Other,800,March,Water,Mathematics and statistics,6,0,1,Undergraduate degree
+NY,Male,Left-Handed,Tennis,500,February,Water,Mathematics and statistics,10,16,6,Undergraduate degree
+NY,Female,Right-Handed,Other,900,July,Water,Science,11,2,5,Graduate degree
+NY,Male,Right-Handed,Table Tennis,300,December,Water,Science,10,0,5,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,850,May,Water,Mathematics and statistics,10,4,1,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,February,Water,Science,8,7,4,Graduate degree
+NY,Female,Right-Handed,Table Tennis,1000,October,Water,Other,10,10,3,Graduate degree
+NY,Female,Right-Handed,Dancing,1000,June,Coffee,Social studies,8,3,5,Other
+NY,Female,Right-Handed,Walking/Hiking,900,May,Powdered drink,English,8,0,5,Graduate degree
+NY,Female,Right-Handed,Other,1000,August,Milk,Science,10,3,1,Some college
+NY,Male,Right-Handed,Basketball,733,January,Water,Mathematics and statistics,10,0,4,Undergraduate degree
+NY,Male,Right-Handed,Baseball/Softball,700,January,Soft drink (non-caffeinated),Social studies,12,0,1,Other
+NY,Female,Right-Handed,Bowling,1000,March,Water,History,7,0,4,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,797,May,Water,English,8,0,2,Graduate degree
+NY,Female,Right-Handed,Athletics,856,September,Water,Science,10,64,15,Graduate degree
+NY,Female,Right-Handed,Soccer,1000,March,Water,History,9,0,2,Graduate degree
+NY,Female,Right-Handed,Other,444,September,Water,Mathematics and statistics,12,10,1,Graduate degree
+NY,Female,Right-Handed,Swimming,700,June,Water,Languages,11,0,5,Graduate degree
+NY,Female,Left-Handed,Gymnastics,1000,July,Other,History,11,0,2,Graduate degree
+NY,Male,Ambidextrous,Football (American),1000,October,Water,Mathematics and statistics,4,0,4,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,January,Water,English,9,0,2,Graduate degree
+NY,Female,Right-Handed,Swimming,1,December,Water,Science,6,0,15,Graduate degree
+NY,Female,Right-Handed,Dancing,80,June,Water,Music,8,0,7,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,July,Water,English,9,0,5,Undergraduate degree
+NY,Female,Right-Handed,Walking/Hiking,800,March,Water,History,10,8,2,Some college
+NY,Female,Right-Handed,Dancing,535,September,Water,Science,7,0,0,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,50,December,Water,Mathematics and statistics,9,25,5,High school
+NY,Male,Left-Handed,Basketball,400,January,Water,Computers and technology,8,0,0,Graduate degree
+NY,Male,Right-Handed,Basketball,400,September,Sports drink,Social studies,10,2,1,Graduate degree
+NY,Female,Right-Handed,Soccer,1000,July,Water,Art,9,2,7,Graduate degree
+NY,Female,Right-Handed,Bowling,0,May,Water,Art,7,0,3,Graduate degree
+NY,Male,Right-Handed,Walking/Hiking,750,July,Water,History,10,8,2,Graduate degree
+NY,Male,Right-Handed,Basketball,200,April,Water,Computers and technology,10,30,5,Graduate degree
+NY,Female,Right-Handed,Other,1,April,Water,English,15,0,0,Other
+NY,Female,Left-Handed,Athletics,1000,June,Water,Physical education,5,1,1,Some college
+NY,Male,Right-Handed,Basketball,800,March,Water,Computers and technology,9,0,5,Undergraduate degree
+NY,Female,Right-Handed,Other,1000,September,Water,Art,6,0,4,Graduate degree
+NY,Male,Ambidextrous,Soccer,750,October,Soft drink (caffeinated),Mathematics and statistics,6,40,4,Graduate degree
+NY,Female,Right-Handed,Lacrosse,600,March,Juice,Science,9,20,2,Some college
+NY,Female,Right-Handed,Cycling,950,February,Water,Social studies,11,0,2,Graduate degree
+NY,Male,Right-Handed,Hockey (Ice),800,September,Water,Science,10,0,5,Graduate degree
+NY,Male,Right-Handed,Swimming,600,September,Water,Mathematics and statistics,9,0,0,Some college
+NY,Male,Right-Handed,Walking/Hiking,900,August,Water,Social studies,9,4,1,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,700,July,Water,English,9,35,4,Graduate degree
+NY,Female,Right-Handed,Basketball,1000,September,Juice,English,9,0,2,Graduate degree
+NY,Female,Right-Handed,Swimming,818,March,Juice,Science,10,0,1,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,775,March,Water,Science,9,6,1,Graduate degree
+NY,Female,Right-Handed,Dancing,1000,February,Water,Social studies,7,0,1,Graduate degree
+NY,Female,Left-Handed,Swimming,85,September,Water,Mathematics and statistics,8,10,6,Other
+NY,Male,Right-Handed,Golf,500,June,Coffee,Mathematics and statistics,7,0,0,Some college
+NY,Female,Right-Handed,Walking/Hiking,90,July,Water,Mathematics and statistics,10,0,45,Graduate degree
+NY,Female,Right-Handed,Swimming,950,December,Water,Art,9,0,8,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,0,August,Juice,Mathematics and statistics,10,2,2,Graduate degree
+NY,Male,Right-Handed,Basketball,759,July,Water,Other,10,0,1,Graduate degree
+NY,Male,Right-Handed,Lacrosse,818,October,Sports drink,History,8,3,0,Graduate degree
+NY,Female,Ambidextrous,Walking/Hiking,150,August,Tea,Art,4,6,6,Graduate degree
+NY,Male,Right-Handed,Swimming,600,August,Water,History,10,0,1,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,March,Juice,Mathematics and statistics,9,0,1,Graduate degree
+NY,Female,Right-Handed,Running/Jogging,760,July,Water,English,8,0,1,Graduate degree
+NY,Female,Right-Handed,Dancing,600,January,Water,Music,8,0,1,Graduate degree
+NY,Female,Right-Handed,Soccer,674,June,Milk,Art,7,0,10,Some college
+NY,Female,Right-Handed,Dancing,500,March,Water,Other,12,15,0,Graduate degree
+NY,Female,Right-Handed,Dancing,1000,January,Juice,Languages,9,0,0,Some college
+NY,Male,Right-Handed,Basketball,500,March,Water,Social studies,9,5,3,Graduate degree
+NY,Female,Right-Handed,Athletics,900,January,Water,Science,11,0,0,Graduate degree
+NY,Male,Right-Handed,Swimming,700,June,Soft drink (non-caffeinated),History,9,6,6,Undergraduate degree
+NY,Female,Right-Handed,Swimming,700,June,Water,Science,10,0,5,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,487,July,Water,Social studies,9,16,4,Graduate degree
+NY,Male,Right-Handed,Athletics,650,November,Water,Science,6,0,1,Graduate degree
+NY,Male,Left-Handed,Other,600,July,Water,Mathematics and statistics,8,0,5,Graduate degree
+NY,Male,Right-Handed,Soccer,500,August,Water,Mathematics and statistics,10,10,1,Graduate degree
+NY,Male,Right-Handed,Soccer,1000,April,Juice,Physical education,8,0,1,Some college
+NY,Male,Right-Handed,Hockey (Field),1000,September,Juice,Geography,8,0,2,Graduate degree
+NY,Female,Ambidextrous,Basketball,1000,January,Water,Science,10,0,10,Some college
+NY,Male,Left-Handed,Soccer,500,December,Water,Social studies,8,1,3,Graduate degree
+NY,Female,Ambidextrous,Athletics,489,July,Tea,Music,9,0,1,Graduate degree
+NY,Female,Ambidextrous,Tennis,850,September,Water,Languages,6,4,3,Graduate degree
+NY,Female,Right-Handed,Hockey (Ice),1000,September,Water,English,10,25,3,Graduate degree
+NY,Male,Right-Handed,Swimming,600,May,Milk,Mathematics and statistics,9,0,1,Graduate degree
+NY,Female,Right-Handed,Swimming,701,March,Juice,English,7,0,7,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,500,November,Water,Mathematics and statistics,6,0,2,Graduate degree
+NY,Male,Right-Handed,Athletics,700,July,Water,Science,6,0,7,Graduate degree
+NY,Male,Right-Handed,Other,120,November,Water,History,8,0,1,Graduate degree
+NY,Female,Left-Handed,Dancing,652,May,Juice,Other,10,0,7,Graduate degree
+NY,Male,Right-Handed,Swimming,500,September,Soft drink (caffeinated),Social studies,9,0,30,Undergraduate degree
+NY,Male,Right-Handed,Soccer,800,May,Water,Mathematics and statistics,10,0,5,Graduate degree
+NY,Female,Right-Handed,Other,706,January,Water,Mathematics and statistics,9,12,2,Graduate degree
+NY,Female,Right-Handed,Dancing,700,November,Soft drink (caffeinated),Art,9,0,1,Graduate degree
+NY,Female,Ambidextrous,Gymnastics,1000,November,Water,History,5,0,0,Some college
+NY,Female,Right-Handed,Other,1000,July,Water,English,9,5,1,Graduate degree
+NY,Female,Right-Handed,Tennis,722,January,Coffee,Science,10,0,0,Some college
+NY,Male,Right-Handed,Other,786,August,Water,Science,6,0,1,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,April,Water,English,5,5,7,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,January,Water,History,4,0,15,Some college
+NY,Female,Right-Handed,Walking/Hiking,1000,March,Water,Physical education,8,9,3,Graduate degree
+NY,Female,Right-Handed,Skateboarding/Rollerblading,600,September,Soft drink (caffeinated),Art,3,0,1,High school
+NY,Female,Ambidextrous,Dancing,1000,July,Water,Science,10,0,2,Other
+NY,Female,Right-Handed,Tennis,1000,November,Water,Science,12,9,18,Graduate degree
+NY,Male,Right-Handed,Basketball,720,June,Juice,Social studies,9,0,4,Graduate degree
+NY,Female,Right-Handed,Other,300,June,Soft drink (non-caffeinated),Computers and technology,3,0,2,Undergraduate degree
+NY,Male,Right-Handed,Other,1000,February,Water,Computers and technology,10,0,0,Graduate degree
+NY,Female,Ambidextrous,Soccer,834,May,Water,Social studies,6,1,14,Graduate degree
+NY,Male,Right-Handed,Football (American),1000,April,Water,History,8,6,0,Graduate degree
+NY,Female,Right-Handed,Hockey (Ice),970,November,Water,Physical education,8,0,0,Graduate degree
+NY,Male,Right-Handed,Walking/Hiking,1000,February,Water,Science,10,0,3,Graduate degree
+NY,Female,Right-Handed,Golf,75,April,Water,Science,9,0,5,Graduate degree
+NY,Female,Right-Handed,Gymnastics,1000,April,Tea,Science,10,9,3,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,July,Water,Mathematics and statistics,9,0,7,Graduate degree
+NY,Male,Right-Handed,Basketball,999,April,Powdered drink,Mathematics and statistics,7,0,2,Graduate degree
+NY,Female,Right-Handed,Soccer,1000,January,Water,Art,10,0,0,Graduate degree
+NY,Female,Right-Handed,Bowling,1000,July,Water,Other,12,4,2,Graduate degree
+NY,Male,Left-Handed,Skateboarding/Rollerblading,900,July,Water,Mathematics and statistics,9,0,2,Undergraduate degree
+NY,Female,Right-Handed,Walking/Hiking,0,December,Water,Art,8,0,0,Some college
+NY,Male,Right-Handed,Basketball,1000,November,Water,Physical education,10,21,5,Graduate degree
+NY,Female,Right-Handed,Martial Arts,900,August,Water,Social studies,10,20,5,Undergraduate degree
+NY,Female,Left-Handed,Basketball,1000,November,Water,Mathematics and statistics,6,0,2,Graduate degree
+NY,Male,Right-Handed,Soccer,797,July,Juice,Physical education,12,0,1,Graduate degree
+NY,Female,Right-Handed,Baseball/Softball,970,April,Water,English,10,0,0,Undergraduate degree
+NY,Male,Right-Handed,Basketball,900,October,Water,Mathematics and statistics,10,15,7,Graduate degree
+NY,Female,Right-Handed,Lacrosse,476,February,Water,Science,11,4,2,Graduate degree
+NY,Female,Right-Handed,Dancing,70,November,Water,Mathematics and statistics,10,0,6,Undergraduate degree
+NY,Male,Right-Handed,Martial Arts,800,April,Soft drink (non-caffeinated),Art,8,0,1,Graduate degree
+NY,Female,Right-Handed,Tennis,786,July,Water,Art,3,7,3,Some college
+NY,Female,Right-Handed,Dancing,984,June,Water,History,12,0,10,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,October,Water,Social studies,10,0,2,Graduate degree
+NY,Male,Right-Handed,Martial Arts,600,March,Soft drink (caffeinated),Science,5,0,2,Graduate degree
+NY,Female,Right-Handed,Soccer,1000,November,Tea,Music,9,0,1,Other
+NY,Male,Right-Handed,Table Tennis,850,February,Water,Mathematics and statistics,9,5,5,Graduate degree
+NY,Female,Right-Handed,Golf,500,November,Milk,Science,8,0,1,Undergraduate degree
+NY,Female,Right-Handed,Gymnastics,1000,March,Water,Art,5,1,1,Graduate degree
+NY,Female,Right-Handed,Dancing,1000,September,Tea,English,9,20,0,Some college
+NY,Female,Right-Handed,Running/Jogging,1000,April,Water,Art,9,3,2,Graduate degree
+NY,Male,Left-Handed,Football (American),390,March,Juice,Computers and technology,3,0,3,Undergraduate degree
+NY,Male,Ambidextrous,Baseball/Softball,300,October,Soft drink (caffeinated),Other,10,2,0,Graduate degree
+NY,Male,Right-Handed,Soccer,1000,June,Juice,Social studies,7,0,3,Some college
+NY,Female,Right-Handed,Gymnastics,800,April,Water,Science,10,0,10,Graduate degree
+NY,Male,Ambidextrous,Baseball/Softball,250,September,Water,Computers and technology,9,0,2,Graduate degree
+NY,Female,Right-Handed,Dancing,900,April,Water,English,10,0,6,Graduate degree
+NY,Female,Right-Handed,Basketball,1000,February,Milk,Science,10,0,1,Graduate degree
+NY,Male,Right-Handed,Soccer,800,June,Water,Mathematics and statistics,7,0,2,Graduate degree
+NY,Male,Right-Handed,Soccer,800,November,Water,Physical education,10,0,0,High school
+NY,Male,Right-Handed,Soccer,305,August,Coffee,History,10,0,1,Some college
+NY,Female,Right-Handed,Baseball/Softball,1000,February,Water,Music,9,60,3,Undergraduate degree
+NY,Female,Right-Handed,Baseball/Softball,401,May,Soft drink (caffeinated),Art,9,0,1,Some college
+NY,Male,Left-Handed,Baseball/Softball,262,May,Coffee,Science,11,5,0,Graduate degree
+NY,Female,Right-Handed,Soccer,60,May,Water,Physical education,11,0,3,Graduate degree
+NY,Female,Right-Handed,Hockey (Ice),600,May,Water,Computers and technology,8,0,1,Undergraduate degree
+NY,Female,Right-Handed,Gymnastics,1000,October,Water,English,10,1,5,Graduate degree
+NY,Female,Right-Handed,Martial Arts,980,February,Water,Art,10,1,1,Other
+NY,Female,Ambidextrous,Swimming,100,December,Water,Computers and technology,9,0,0,Graduate degree
+NY,Male,Right-Handed,Dancing,187,March,Water,History,10,0,2,Graduate degree
+NY,Female,Right-Handed,Bowling,70,October,Water,Mathematics and statistics,9,0,3,Graduate degree
+NY,Male,Right-Handed,Other,500,March,Water,Science,10,0,2,Graduate degree
+NY,Male,Left-Handed,Tennis,471,January,Coffee,Other,7,0,0,Graduate degree
+NY,Male,Right-Handed,Running/Jogging,800,June,Water,Mathematics and statistics,10,0,0,Graduate degree
+NY,Male,Right-Handed,Basketball,500,September,Milk,Computers and technology,12,0,10,Graduate degree
+NY,Male,Right-Handed,Skateboarding/Rollerblading,850,June,Water,Languages,9,0,2,Graduate degree
+NY,Female,Right-Handed,Dancing,500,February,Water,English,11,13,3,Graduate degree
+NY,Female,Right-Handed,Soccer,262,August,Soft drink (caffeinated),Computers and technology,7,0,1,Graduate degree
+NY,Female,Right-Handed,Soccer,450,November,Water,Art,12,0,2,Some college
+NY,Female,Right-Handed,Basketball,700,January,Water,Physical education,9,0,14,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,August,Tea,English,10,3,4,Graduate degree
+NY,Male,Right-Handed,Golf,781,December,Juice,Physical education,4,0,12,Graduate degree
+NY,Male,Ambidextrous,Basketball,1000,April,Water,Physical education,3,0,3,Graduate degree
+NY,Female,Right-Handed,Other,565,March,Water,Computers and technology,6,3,4,Graduate degree
+NY,Female,Right-Handed,Skateboarding/Rollerblading,1000,August,Water,Computers and technology,9,0,4,Graduate degree
+NY,Female,Right-Handed,Running/Jogging,1000,November,Water,Social studies,8,1,4,Graduate degree
+NY,Male,Right-Handed,Soccer,925,January,Water,Mathematics and statistics,11,0,10,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,September,Water,Science,9,0,0,Undergraduate degree
+NY,Female,Right-Handed,Basketball,1000,June,Sports drink,Physical education,13,0,1,Graduate degree
+NY,Male,Right-Handed,Other,449,May,Water,Mathematics and statistics,8,0,2,Graduate degree
+NY,Male,Right-Handed,Other,900,December,Water,Other,7,14,7,Graduate degree
+NY,Male,Right-Handed,Baseball/Softball,615,May,Water,Physical education,9,0,2,Undergraduate degree
+NY,Female,Right-Handed,Other,80,October,Water,English,9,0,2,Graduate degree
+NY,Male,Left-Handed,Tennis,1000,August,Water,Mathematics and statistics,12,0,5,Graduate degree
+NY,Female,Right-Handed,Dancing,400,August,Water,Music,8,0,2,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,June,Water,English,10,25,20,Graduate degree
+NY,Male,Right-Handed,Other,350,April,Water,Mathematics and statistics,8,15,1,Graduate degree
+NY,Male,Right-Handed,Football (American),0,September,Other,Science,11,11,10,Graduate degree
+NY,Male,Right-Handed,Basketball,1000,May,Water,Computers and technology,12,0,0,Graduate degree
+NY,Male,Right-Handed,Bowling,500,December,Water,Art,9,8,1,High school
+NY,Female,Right-Handed,Basketball,476,November,Water,Mathematics and statistics,10,25,6,Graduate degree
+NY,Female,Right-Handed,Swimming,1000,December,Water,Art,9,5,2,Graduate degree
+NY,Male,Right-Handed,Soccer,749,June,Water,Languages,10,0,2,Graduate degree
+NY,Male,Right-Handed,Running/Jogging,850,September,Water,Computers and technology,9,0,1,Graduate degree
+NY,Female,Right-Handed,Walking/Hiking,1000,May,Water,Mathematics and statistics,10,1,2,Graduate degree
+NY,Female,Left-Handed,Basketball,2,July,Water,Art,10,0,8,Some college
+NY,Female,Right-Handed,Cycling,1000,March,Milk,Social studies,12,0,2,Graduate degree
+NY,Female,Right-Handed,Dancing,850,March,Water,English,9,0,7,Graduate degree
+NY,Male,Right-Handed,Martial Arts,904,March,Water,Computers and technology,9,0,10,Some college
+TX,Male,Right-Handed,Cycling,1000,August,Coffee,Science,6,0,6,Other
+TX,Female,Left-Handed,Skateboarding/Rollerblading,1000,June,Soft drink (caffeinated),Music,13,7,25,Graduate degree
+TX,Female,Right-Handed,Other,4,September,Water,History,10,20,2,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,685,June,Water,Mathematics and statistics,12,30,15,Graduate degree
+TX,Male,Right-Handed,Cycling,900,July,Soft drink (caffeinated),Science,9,0,5,Graduate degree
+TX,Female,Right-Handed,Soccer,500,June,Soft drink (caffeinated),Other,10,0,3,Undergraduate degree
+TX,Male,Right-Handed,Football (American),650,June,Water,English,8,0,1,Graduate degree
+TX,Female,Right-Handed,Dancing,1000,May,Water,Other,9,0,15,Graduate degree
+TX,Male,Right-Handed,Tennis,800,March,Water,Mathematics and statistics,10,0,0,Other
+TX,Female,Right-Handed,Dancing,700,September,Water,Languages,10,0,5,Graduate degree
+TX,Male,Right-Handed,Soccer,850,September,Sports drink,Mathematics and statistics,12,10,10,Graduate degree
+TX,Female,Left-Handed,Walking/Hiking,1000,March,Water,Science,8,10,6,Undergraduate degree
+TX,Female,Right-Handed,Dancing,711,February,Water,Physical education,11,1,1,Graduate degree
+TX,Male,Right-Handed,Soccer,750,April,Water,Physical education,9,14,12,Other
+TX,Male,Right-Handed,Martial Arts,86,April,Soft drink (caffeinated),Science,12,36,1,Graduate degree
+TX,Female,Right-Handed,Other,500,August,Water,Physical education,3,44,0,Graduate degree
+TX,Male,Right-Handed,Basketball,250,July,Water,Mathematics and statistics,7,20,2,Graduate degree
+TX,Male,Left-Handed,Tennis,567,November,Water,Science,10,0,5,Graduate degree
+TX,Male,Right-Handed,Bowling,813,January,Water,History,9,0,10,Graduate degree
+TX,Male,Right-Handed,Football (American),412,January,Water,History,12,0,3,Some college
+TX,Female,Right-Handed,Other,1000,October,Powdered drink,Art,10,0,2,High school
+TX,Female,Right-Handed,Running/Jogging,412,June,Water,Other,9,0,7,Graduate degree
+TX,Male,Left-Handed,Walking/Hiking,1000,April,Soft drink (caffeinated),Science,9,36,10,Some college
+TX,Female,Right-Handed,Tennis,519,August,Water,History,10,0,5,Other
+TX,Male,Left-Handed,Athletics,600,May,Water,Mathematics and statistics,7,12,3,Graduate degree
+TX,Male,Right-Handed,Soccer,800,June,Water,Mathematics and statistics,8,0,2,Graduate degree
+TX,Female,Left-Handed,Martial Arts,100,May,Water,Art,3,1,1,Undergraduate degree
+TX,Female,Right-Handed,Other,900,January,Tea,Science,8,14,3,Graduate degree
+TX,Male,Right-Handed,Hockey (Ice),1000,June,Water,Science,12,0,2,Graduate degree
+TX,Female,Right-Handed,Basketball,900,December,Water,Other,9,0,1,Graduate degree
+TX,Female,Ambidextrous,Other,500,January,Water,Physical education,12,20,2,Other
+TX,Male,Right-Handed,Athletics,1000,October,Water,Science,10,0,11,Graduate degree
+TX,Female,Left-Handed,Basketball,1000,June,Water,Mathematics and statistics,9,0,4,Graduate degree
+TX,Male,Right-Handed,Basketball,700,July,Juice,History,8,30,5,Graduate degree
+TX,Male,Right-Handed,Tennis,500,September,Water,Science,11,12,1,Graduate degree
+TX,Female,Right-Handed,Basketball,947,March,Water,Mathematics and statistics,11,3,3,Graduate degree
+TX,Male,Right-Handed,Athletics,0,September,Water,Other,10,0,5,Graduate degree
+TX,Female,Right-Handed,Soccer,500,September,Water,Art,9,0,1,Graduate degree
+TX,Male,Ambidextrous,Basketball,1000,September,Energy drink,Science,4,10,34,Graduate degree
+TX,Male,Right-Handed,Walking/Hiking,100,April,Water,Other,10,0,10,Other
+TX,Male,Right-Handed,Cycling,1000,May,Water,Science,9,0,2,Other
+TX,Female,Right-Handed,Walking/Hiking,400,August,Water,Art,7,0,3,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,845,November,Water,Computers and technology,8,0,0,Undergraduate degree
+TX,Female,Right-Handed,Basketball,900,July,Tea,English,9,0,2,Graduate degree
+TX,Female,Right-Handed,Skateboarding/Rollerblading,786,August,Water,History,8,40,20,Graduate degree
+TX,Female,Right-Handed,Cycling,1000,August,Water,Social studies,11,0,0,Other
+TX,Male,Right-Handed,Soccer,500,January,Powdered drink,Computers and technology,12,0,9,Graduate degree
+TX,Male,Right-Handed,Athletics,652,June,Water,Mathematics and statistics,8,0,2,Graduate degree
+TX,Male,Right-Handed,Baseball/Softball,76,May,Water,Computers and technology,9,8,5,Graduate degree
+TX,Female,Right-Handed,Tennis,700,October,Tea,English,10,0,3,Other
+TX,Female,Right-Handed,Baseball/Softball,900,March,Water,English,6,30,7,Some college
+TX,Male,Right-Handed,Bowling,797,May,Water,Science,8,0,30,Some college
+TX,Male,Right-Handed,Basketball,594,August,Water,History,8,0,5,Graduate degree
+TX,Male,Right-Handed,Basketball,578,January,Water,Art,7,20,5,Graduate degree
+TX,Female,Left-Handed,Swimming,300,November,Water,English,9,0,3,Graduate degree
+TX,Female,Right-Handed,Skateboarding/Rollerblading,1000,December,Coffee,Other,10,18,0,Graduate degree
+TX,Female,Right-Handed,Basketball,300,December,Water,Physical education,9,0,5,Graduate degree
+TX,Male,Right-Handed,Soccer,500,December,Water,Physical education,8,5,4,Some college
+TX,Female,Right-Handed,Swimming,856,April,Juice,Other,8,12,7,Other
+TX,Female,Right-Handed,Other,100,October,Water,Mathematics and statistics,11,0,0,Graduate degree
+TX,Male,Right-Handed,Swimming,1000,September,Water,Art,10,0,5,Graduate degree
+TX,Female,Right-Handed,Dancing,471,October,Water,Computers and technology,8,0,1,High school
+TX,Female,Left-Handed,Dancing,1000,December,Water,History,5,0,10,Graduate degree
+TX,Female,Right-Handed,Other,850,February,Water,Other,8,0,0,Graduate degree
+TX,Male,Right-Handed,Football (American),0,May,Water,Physical education,10,15,3,High school
+TX,Male,Left-Handed,Golf,3,October,Water,History,5,24,9,High school
+TX,Male,Right-Handed,Soccer,800,March,Other,History,10,0,0,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,1000,October,Water,Art,10,1,2,Some college
+TX,Male,Right-Handed,Rowing,700,October,Water,History,9,0,15,Graduate degree
+TX,Female,Right-Handed,Tennis,850,May,Water,Mathematics and statistics,11,15,6,Graduate degree
+TX,Female,Right-Handed,Dancing,1000,July,Water,Mathematics and statistics,10,0,30,Graduate degree
+TX,Female,Right-Handed,Other,65,August,Water,Science,10,0,18,Graduate degree
+TX,Male,Right-Handed,Baseball/Softball,750,March,Water,History,9,21,3,Other
+TX,Male,Right-Handed,Soccer,1000,August,Water,Computers and technology,10,0,0,Some college
+TX,Male,Right-Handed,Walking/Hiking,1000,February,Water,Social studies,10,15,2,Graduate degree
+TX,Male,Right-Handed,Other,503,July,Water,History,7,30,13,High school
+TX,Female,Right-Handed,Other,600,April,Water,Mathematics and statistics,10,0,9,Graduate degree
+TX,Female,Right-Handed,Athletics,500,December,Tea,History,6,20,48,Graduate degree
+TX,Female,Right-Handed,Other,10,January,Soft drink (caffeinated),Music,12,8,1,Other
+TX,Male,Right-Handed,Football (American),299,July,Energy drink,History,8,16,2,Graduate degree
+TX,Female,Right-Handed,Other,476,September,Water,Social studies,10,0,1,Graduate degree
+TX,Female,Right-Handed,Dancing,561,January,Water,English,9,10,5,High school
+TX,Female,Right-Handed,Other,731,August,Water,History,10,25,6,Other
+TX,Female,Right-Handed,Tennis,588,October,Water,Mathematics and statistics,8,0,3,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,1000,July,Water,Social studies,3,0,3,Graduate degree
+TX,Female,Left-Handed,Baseball/Softball,700,October,Water,History,9,0,2,Graduate degree
+TX,Female,Right-Handed,Other,100,December,Water,Computers and technology,12,35,25,Graduate degree
+TX,Female,Right-Handed,Other,500,June,Sports drink,Science,9,0,4,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,1000,September,Water,Computers and technology,7,0,1,Some college
+TX,Male,Left-Handed,Football (American),800,March,Water,Art,9,0,0,Graduate degree
+TX,Male,Right-Handed,Other,800,June,Water,Music,8,0,2,Other
+TX,Male,Right-Handed,Basketball,7,September,Water,Mathematics and statistics,8,0,0,High school
+TX,Female,Right-Handed,Other,508,November,Soft drink (caffeinated),Science,10,45,1,Graduate degree
+TX,Male,Right-Handed,Swimming,759,July,Water,Computers and technology,12,0,3,Graduate degree
+TX,Female,Right-Handed,Dancing,278,March,Water,English,10,0,3,Undergraduate degree
+TX,Male,Left-Handed,Lacrosse,750,February,Water,Physical education,12,0,2,Graduate degree
+TX,Female,Left-Handed,Other,936,January,Water,English,8,0,0,Graduate degree
+TX,Female,Right-Handed,Athletics,1000,June,Water,Music,2,5,9,Graduate degree
+TX,Male,Right-Handed,Baseball/Softball,800,June,Energy drink,Mathematics and statistics,6,4,1,High school
+TX,Male,Right-Handed,Basketball,1000,November,Tea,History,5,30,1,Other
+TX,Male,Right-Handed,Other,800,July,Water,Other,5,8,7,Some college
+TX,Female,Right-Handed,Dancing,32,January,Soft drink (caffeinated),Social studies,5,0,0,Graduate degree
+TX,Female,Right-Handed,Soccer,500,January,Water,Mathematics and statistics,8,0,0,Graduate degree
+TX,Female,Right-Handed,Dancing,583,December,Soft drink (caffeinated),English,5,15,6,Other
+TX,Female,Right-Handed,Tennis,471,December,Water,Mathematics and statistics,8,0,3,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,500,November,Water,Science,8,0,2,Undergraduate degree
+TX,Female,Right-Handed,Dancing,1000,December,Water,Other,8,15,7,Undergraduate degree
+TX,Female,Right-Handed,Soccer,600,September,Water,History,9,0,2,Graduate degree
+TX,Male,Right-Handed,Baseball/Softball,6,September,Tea,Other,10,0,3,Other
+TX,Male,Right-Handed,Other,950,May,Water,Science,8,20,5,Graduate degree
+TX,Female,Right-Handed,Basketball,775,March,Soft drink (caffeinated),Art,3,0,2,Graduate degree
+TX,Male,Right-Handed,Soccer,1000,August,Water,Mathematics and statistics,7,9,0,High school
+TX,Female,Right-Handed,Gymnastics,300,August,Powdered drink,Physical education,7,0,0,Graduate degree
+TX,Male,Left-Handed,Skateboarding/Rollerblading,0,October,Water,Science,8,18,3,Graduate degree
+TX,Male,Right-Handed,Skateboarding/Rollerblading,813,April,Soft drink (caffeinated),Other,10,0,0,Graduate degree
+TX,Female,Right-Handed,Other,1000,April,Water,Art,8,0,1,Some college
+TX,Female,Right-Handed,Swimming,700,August,Water,Art,10,0,7,Graduate degree
+TX,Male,Ambidextrous,Football (American),1000,November,Water,Physical education,10,30,1,Graduate degree
+TX,Male,Right-Handed,Hockey (Ice),727,April,Tea,History,7,0,3,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,1000,September,Water,History,4,30,30,Graduate degree
+TX,Male,Right-Handed,Martial Arts,1000,February,Water,Science,6,35,3,Other
+TX,Female,Right-Handed,Dancing,1000,November,Water,Science,8,0,2,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,600,March,Water,Physical education,8,20,0,Undergraduate degree
+TX,Male,Left-Handed,Athletics,0,October,Water,Science,8,6,14,Graduate degree
+TX,Male,Right-Handed,Basketball,650,September,Water,Other,8,8,4,Undergraduate degree
+TX,Male,Right-Handed,Bowling,1000,November,Water,History,10,0,4,Undergraduate degree
+TX,Female,Right-Handed,Athletics,1000,September,Water,English,6,20,5,Graduate degree
+TX,Male,Ambidextrous,Baseball/Softball,0,March,Sports drink,Physical education,12,0,0,Graduate degree
+TX,Female,Right-Handed,Other,471,November,Tea,Other,8,1,5,Other
+TX,Female,Right-Handed,Swimming,536,September,Tea,History,10,8,4,Undergraduate degree
+TX,Male,Right-Handed,Tennis,802,February,Sports drink,Science,8,0,1,Graduate degree
+TX,Female,Right-Handed,Athletics,500,January,Water,Physical education,6,25,1,Graduate degree
+TX,Male,Right-Handed,Bowling,750,July,Energy drink,Other,5,15,1,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,1000,August,Water,English,9,25,3,Graduate degree
+TX,Male,Right-Handed,Soccer,1000,January,Water,History,10,0,12,Some college
+TX,Male,Right-Handed,Baseball/Softball,500,July,Milk,Science,6,0,0,Graduate degree
+TX,Male,Right-Handed,Football (American),305,April,Powdered drink,Mathematics and statistics,6,40,5,Undergraduate degree
+TX,Male,Right-Handed,Football (American),400,December,Milk,Physical education,10,0,4,Graduate degree
+TX,Female,Right-Handed,Soccer,481,May,Water,English,8,0,1,Graduate degree
+TX,Male,Right-Handed,Athletics,250,July,Tea,Mathematics and statistics,9,0,24,Some college
+TX,Male,Right-Handed,Soccer,50,March,Sports drink,English,12,0,4,Graduate degree
+TX,Male,Right-Handed,Soccer,1000,May,Soft drink (caffeinated),Other,5,8,0,Graduate degree
+TX,Male,Right-Handed,Martial Arts,700,April,Water,English,10,0,5,Graduate degree
+TX,Male,Right-Handed,Basketball,1000,December,Water,English,8,0,0,High school
+TX,Female,Right-Handed,Other,765,September,Water,Art,10,0,2,Graduate degree
+TX,Male,Right-Handed,Basketball,90,April,Sports drink,Physical education,12,0,0,Some college
+TX,Female,Right-Handed,Athletics,1000,November,Water,Mathematics and statistics,8,22,2,Graduate degree
+TX,Female,Right-Handed,Dancing,1000,June,Water,Physical education,7,0,30,Graduate degree
+TX,Male,Right-Handed,Football (American),512,November,Tea,Art,5,0,4,Graduate degree
+TX,Female,Right-Handed,Athletics,999,May,Water,Physical education,12,0,20,Graduate degree
+TX,Male,Right-Handed,Basketball,500,August,Water,Computers and technology,9,0,5,Graduate degree
+TX,Female,Right-Handed,Athletics,100,October,Milk,Physical education,12,0,0,Graduate degree
+TX,Male,Right-Handed,Athletics,1000,July,Juice,Art,4,0,2,High school
+TX,Female,Right-Handed,Basketball,1000,December,Water,Music,6,0,3,Some college
+TX,Male,Right-Handed,Other,500,August,Water,Music,8,0,0,Graduate degree
+TX,Male,Right-Handed,Football (American),326,August,Water,Other,12,0,2,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,1000,December,Water,Other,10,5,1,Graduate degree
+TX,Female,Right-Handed,Other,909,September,Water,English,9,20,8,Graduate degree
+TX,Female,Right-Handed,Dancing,800,January,Powdered drink,English,7,10,2,Graduate degree
+TX,Female,Right-Handed,Swimming,906,July,Soft drink (caffeinated),Science,7,0,4,Other
+TX,Female,Right-Handed,Baseball/Softball,900,June,Water,Physical education,10,25,5,Other
+TX,Female,Right-Handed,Cycling,1000,September,Soft drink (caffeinated),Mathematics and statistics,6,3,12,Graduate degree
+TX,Female,Right-Handed,Table Tennis,80,October,Water,Art,10,0,1,Graduate degree
+TX,Male,Right-Handed,Football (American),400,December,Sports drink,Mathematics and statistics,6,15,15,Graduate degree
+TX,Male,Right-Handed,Cycling,0,May,Water,Mathematics and statistics,7,0,30,Graduate degree
+TX,Female,Right-Handed,Soccer,500,February,Soft drink (caffeinated),Mathematics and statistics,10,0,6,Graduate degree
+TX,Female,Right-Handed,Soccer,1000,August,Water,English,8,12,5,Graduate degree
+TX,Female,Right-Handed,Tennis,996,February,Water,Art,7,0,8,Graduate degree
+TX,Male,Right-Handed,Basketball,1000,October,Milk,Science,9,0,2,Some college
+TX,Male,Right-Handed,Other,1000,January,Water,Computers and technology,9,0,0,Undergraduate degree
+TX,Male,Right-Handed,Other,1000,January,Water,Other,1,0,0,Other
+TX,Male,Right-Handed,Table Tennis,745,June,Water,Music,10,0,1,Other
+TX,Male,Right-Handed,Baseball/Softball,898,June,Milk,Mathematics and statistics,10,0,1,Graduate degree
+TX,Female,Right-Handed,Other,1000,July,Water,Other,10,0,4,Other
+TX,Female,Right-Handed,Other,800,January,Water,Science,7,0,3,Graduate degree
+TX,Female,Right-Handed,Dancing,1000,May,Juice,Physical education,7,0,6,Graduate degree
+TX,Male,Right-Handed,Soccer,588,December,Water,Mathematics and statistics,10,0,1,Other
+TX,Female,Right-Handed,Basketball,1000,March,Water,Science,10,0,6,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,800,May,Water,Mathematics and statistics,10,0,5,Graduate degree
+TX,Female,Right-Handed,Athletics,722,July,Water,Art,5,0,5,Graduate degree
+TX,Female,Right-Handed,Golf,1000,February,Energy drink,Mathematics and statistics,12,4,5,Graduate degree
+TX,Male,Right-Handed,Basketball,450,July,Soft drink (caffeinated),Science,6,0,7,Undergraduate degree
+TX,Male,Right-Handed,Skateboarding/Rollerblading,400,November,Water,Other,4,39,0,High school
+TX,Female,Right-Handed,Dancing,1000,July,Water,History,12,40,2,Some college
+TX,Male,Right-Handed,Bowling,1000,April,Water,Science,10,40,4,Other
+TX,Female,Right-Handed,Running/Jogging,1000,July,Water,Mathematics and statistics,9,20,8,Graduate degree
+TX,Male,Left-Handed,Other,1000,May,Water,History,12,27,0,Undergraduate degree
+TX,Male,Right-Handed,Baseball/Softball,1000,August,Water,History,10,0,20,Graduate degree
+TX,Male,Right-Handed,Football (American),0,July,Milk,Physical education,9,0,2,Other
+TX,Male,Right-Handed,Other,800,May,Water,Science,9,0,7,Graduate degree
+TX,Male,Left-Handed,Baseball/Softball,400,June,Water,History,10,10,1,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,500,September,Water,History,8,40,5,Some college
+TX,Female,Right-Handed,Swimming,1000,September,Energy drink,Science,7,20,10,Graduate degree
+TX,Female,Right-Handed,Athletics,604,April,Water,Physical education,9,0,7,Some college
+TX,Female,Right-Handed,Dancing,0,December,Water,Other,7,0,0,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,845,June,Water,History,4,0,9,Graduate degree
+TX,Female,Right-Handed,Athletics,870,April,Tea,Other,7,20,1,Undergraduate degree
+TX,Female,Right-Handed,Soccer,100,December,Powdered drink,Other,5,0,1,Graduate degree
+TX,Male,Right-Handed,Cycling,1000,September,Milk,Computers and technology,9,10,0,Graduate degree
+TX,Male,Right-Handed,Soccer,925,November,Water,Physical education,10,0,2,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,717,May,Water,Science,7,0,2,Graduate degree
+TX,Male,Right-Handed,Football (American),1000,October,Coffee,English,9,0,0,Graduate degree
+TX,Female,Right-Handed,Dancing,900,August,Milk,Computers and technology,6,0,14,Graduate degree
+TX,Female,Right-Handed,Other,861,July,Water,Mathematics and statistics,9,20,5,Undergraduate degree
+TX,Female,Right-Handed,Swimming,1000,June,Water,History,10,0,4,Some college
+TX,Female,Right-Handed,Other,727,February,Water,Science,9,0,1,Undergraduate degree
+TX,Male,Left-Handed,Baseball/Softball,1,December,Water,History,9,3,2,Graduate degree
+TX,Male,Right-Handed,Golf,750,March,Soft drink (caffeinated),History,6,0,2,Graduate degree
+TX,Female,Left-Handed,Soccer,620,December,Powdered drink,Art,8,5,2,Graduate degree
+TX,Male,Right-Handed,Athletics,900,October,Water,Music,10,0,5,High school
+TX,Male,Left-Handed,Football (American),1000,September,Water,Computers and technology,4,1,5,Some college
+TX,Female,Right-Handed,Basketball,200,March,Water,Music,8,0,4,Graduate degree
+TX,Male,Right-Handed,Soccer,500,December,Water,Languages,7,0,7,Graduate degree
+TX,Female,Right-Handed,Golf,1000,April,Energy drink,History,10,15,10,Graduate degree
+TX,Male,Right-Handed,Baseball/Softball,738,December,Water,Mathematics and statistics,10,0,0,Other
+TX,Male,Right-Handed,Golf,455,August,Water,History,8,0,0,Graduate degree
+TX,Female,Left-Handed,Walking/Hiking,300,May,Tea,Science,9,0,8,Graduate degree
+TX,Female,Right-Handed,Dancing,99,June,Water,Languages,7,0,8,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,503,March,Water,English,6,0,6,Undergraduate degree
+TX,Female,Left-Handed,Walking/Hiking,750,June,Water,Art,10,0,0,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,985,April,Water,History,9,9,3,Graduate degree
+TX,Female,Right-Handed,Swimming,400,December,Water,Science,9,0,2,Other
+TX,Male,Right-Handed,Walking/Hiking,1000,August,Water,Mathematics and statistics,3,0,2,High school
+TX,Male,Right-Handed,Football (American),1000,April,Tea,Physical education,8,3,4,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,385,September,Water,Art,12,0,0,Graduate degree
+TX,Female,Right-Handed,Dancing,508,December,Powdered drink,Other,10,2,5,Graduate degree
+TX,Female,Right-Handed,Swimming,1000,June,Juice,History,10,0,4,Graduate degree
+TX,Female,Right-Handed,Soccer,1000,December,Water,Social studies,8,0,7,Graduate degree
+TX,Female,Ambidextrous,Basketball,3,August,Powdered drink,Other,10,1,1,Graduate degree
+TX,Female,Right-Handed,Dancing,1000,January,Soft drink (caffeinated),Languages,9,16,5,Graduate degree
+TX,Female,Right-Handed,Other,700,November,Water,English,8,0,2,Graduate degree
+TX,Male,Right-Handed,Football (American),1000,February,Water,Mathematics and statistics,7,0,0,High school
+TX,Male,Right-Handed,Martial Arts,900,April,Water,Science,7,0,0,Other
+TX,Female,Right-Handed,Other,957,July,Water,History,10,0,1,Other
+TX,Female,Right-Handed,Tennis,1000,March,Water,Science,7,0,7,Graduate degree
+TX,Female,Right-Handed,Cycling,540,April,Water,English,9,25,2,High school
+TX,Female,Right-Handed,Other,1000,March,Water,History,8,0,3,Graduate degree
+TX,Female,Right-Handed,Basketball,1000,May,Water,Mathematics and statistics,7,0,2,Undergraduate degree
+TX,Female,Right-Handed,Baseball/Softball,829,May,Water,Science,9,0,4,Graduate degree
+TX,Male,Right-Handed,Soccer,750,February,Water,Physical education,2,22,0,Other
+TX,Male,Right-Handed,Football (American),700,September,Water,Art,9,0,6,Graduate degree
+TX,Male,Left-Handed,Golf,1000,June,Water,Physical education,8,0,0,Graduate degree
+TX,Female,Right-Handed,Other,150,July,Water,English,13,0,0,Graduate degree
+TX,Male,Right-Handed,Soccer,200,April,Water,Social studies,12,0,0,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,900,October,Water,Mathematics and statistics,10,0,4,Graduate degree
+TX,Female,Left-Handed,Martial Arts,920,November,Tea,Other,8,0,15,Undergraduate degree
+TX,Female,Left-Handed,Athletics,898,June,Water,Mathematics and statistics,9,35,8,Other
+TX,Male,Right-Handed,Tennis,0,June,Soft drink (caffeinated),Other,8,0,0,Graduate degree
+TX,Male,Left-Handed,Football (American),500,December,Water,Physical education,5,0,2,Graduate degree
+TX,Male,Right-Handed,Skateboarding/Rollerblading,600,April,Water,Other,7,4,1,Graduate degree
+TX,Male,Right-Handed,Football (American),900,February,Soft drink (caffeinated),History,11,0,2,Graduate degree
+TX,Male,Right-Handed,Bowling,300,March,Tea,Mathematics and statistics,14,0,3,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,492,January,Water,Mathematics and statistics,10,0,5,Some college
+TX,Female,Left-Handed,Tennis,1000,May,Water,Art,8,28,2,Graduate degree
+TX,Male,Right-Handed,Swimming,235,April,Juice,Mathematics and statistics,7,20,3,Undergraduate degree
+TX,Male,Right-Handed,Soccer,866,November,Water,Science,8,0,1,High school
+TX,Male,Right-Handed,Baseball/Softball,900,February,Water,Other,8,0,5,Graduate degree
+TX,Male,Left-Handed,Golf,500,April,Water,History,5,2,2,Undergraduate degree
+TX,Female,Right-Handed,Other,500,December,Water,Science,9,0,0,Other
+TX,Female,Right-Handed,Walking/Hiking,570,November,Soft drink (caffeinated),Science,14,1,7,Graduate degree
+TX,Male,Right-Handed,Soccer,1000,May,Sports drink,Physical education,8,0,7,Other
+TX,Female,Right-Handed,Tennis,1000,July,Water,Geography,8,0,0,Graduate degree
+TX,Female,Right-Handed,Other,877,December,Water,Mathematics and statistics,9,0,2,Some college
+TX,Male,Right-Handed,Walking/Hiking,1000,March,Energy drink,English,3,0,35,Some college
+TX,Male,Right-Handed,Basketball,700,October,Water,Science,10,30,0,Graduate degree
+TX,Female,Right-Handed,Other,990,June,Coffee,Other,10,30,2,Graduate degree
+TX,Male,Right-Handed,Athletics,400,April,Water,Science,9,0,3,Graduate degree
+TX,Female,Right-Handed,Gymnastics,920,November,Sports drink,Science,10,2,5,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,100,June,Water,Languages,7,0,3,Graduate degree
+TX,Male,Left-Handed,Basketball,70,May,Juice,Mathematics and statistics,8,30,30,Other
+TX,Female,Right-Handed,Athletics,497,January,Soft drink (caffeinated),Social studies,7,5,1,Graduate degree
+TX,Female,Right-Handed,Other,1000,September,Water,History,9,0,2,Other
+TX,Female,Right-Handed,Athletics,90,May,Water,Mathematics and statistics,6,0,3,Graduate degree
+TX,Female,Right-Handed,Gymnastics,1000,September,Water,English,11,15,0,Graduate degree
+TX,Female,Right-Handed,Soccer,1000,April,Water,Science,8,0,0,Some college
+TX,Female,Right-Handed,Gymnastics,998,June,Juice,Social studies,10,0,0,Other
+TX,Male,Right-Handed,Other,1000,May,Water,Computers and technology,10,1,0,Graduate degree
+TX,Female,Right-Handed,Dancing,684,December,Water,Other,10,5,2,Graduate degree
+TX,Male,Right-Handed,Table Tennis,750,January,Water,Art,13,0,12,Undergraduate degree
+TX,Female,Left-Handed,Soccer,1000,March,Juice,Physical education,11,0,2,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,499,October,Tea,Science,12,0,1,High school
+TX,Male,Left-Handed,Baseball/Softball,0,May,Soft drink (caffeinated),Mathematics and statistics,12,0,4,Undergraduate degree
+TX,Female,Ambidextrous,Other,300,February,Water,History,8,0,0,Graduate degree
+TX,Male,Right-Handed,Football (American),800,February,Water,Physical education,9,0,2,Graduate degree
+TX,Female,Right-Handed,Dancing,647,December,Water,Science,12,16,7,Some college
+TX,Male,Left-Handed,Baseball/Softball,460,February,Water,Science,4,0,10,Graduate degree
+TX,Female,Ambidextrous,Swimming,800,January,Soft drink (caffeinated),Mathematics and statistics,6,30,1,Graduate degree
+TX,Male,Right-Handed,Basketball,700,February,Water,Mathematics and statistics,2,0,2,Graduate degree
+TX,Male,Right-Handed,Soccer,209,January,Water,Mathematics and statistics,9,0,1,Undergraduate degree
+TX,Female,Right-Handed,Athletics,540,June,Water,Music,10,0,0,High school
+TX,Male,Right-Handed,Football (American),400,October,Water,Physical education,11,10,2,Other
+TX,Male,Right-Handed,Other,762,July,Water,Computers and technology,10,0,0,Some college
+TX,Female,Right-Handed,Walking/Hiking,711,December,Tea,Languages,8,45,45,Graduate degree
+TX,Female,Left-Handed,Other,500,April,Water,English,10,0,10,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,0,February,Tea,Science,7,2,4,Some college
+TX,Female,Right-Handed,Walking/Hiking,1000,September,Powdered drink,Computers and technology,3,20,5,Some college
+TX,Female,Right-Handed,Other,1000,December,Water,Other,8,1,7,Graduate degree
+TX,Male,Right-Handed,Basketball,250,October,Sports drink,Science,12,30,2,Graduate degree
+TX,Male,Right-Handed,Basketball,500,November,Tea,History,10,0,10,Other
+TX,Male,Left-Handed,Other,50,December,Sports drink,Physical education,6,0,2,High school
+TX,Female,Right-Handed,Gymnastics,1000,August,Water,English,6,5,3,Graduate degree
+TX,Female,Right-Handed,Other,332,May,Water,English,8,0,1,Graduate degree
+TX,Male,Right-Handed,Football (American),500,October,Sports drink,Geography,10,4,1,Graduate degree
+TX,Female,Right-Handed,Dancing,684,October,Soft drink (caffeinated),Music,5,8,1,Other
+TX,Female,Right-Handed,Golf,1000,October,Water,History,9,0,1,Graduate degree
+TX,Female,Right-Handed,Other,500,February,Water,Mathematics and statistics,9,18,2,Graduate degree
+TX,Male,Right-Handed,Football (American),750,August,Water,History,9,0,1,Graduate degree
+TX,Male,Right-Handed,Basketball,722,March,Water,Music,6,15,0,Some college
+TX,Male,Right-Handed,Dancing,1000,November,Water,Computers and technology,9,0,5,Graduate degree
+TX,Female,Right-Handed,Dancing,30,September,Water,Art,10,0,30,Undergraduate degree
+TX,Female,Right-Handed,Other,674,February,Tea,Music,9,0,1,Graduate degree
+TX,Female,Right-Handed,Baseball/Softball,6,December,Juice,English,6,30,5,Graduate degree
+TX,Female,Right-Handed,Tennis,900,March,Water,Science,8,0,5,Graduate degree
+TX,Male,Left-Handed,Football (American),850,April,Water,History,10,0,1,Undergraduate degree
+TX,Female,Right-Handed,Gymnastics,1000,December,Juice,Art,8,0,1,Some college
+TX,Male,Right-Handed,Swimming,800,February,Water,Music,11,0,0,Graduate degree
+TX,Male,Right-Handed,Soccer,863,October,Water,Mathematics and statistics,9,0,3,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,1000,July,Water,Other,9,0,9,Graduate degree
+TX,Female,Right-Handed,Walking/Hiking,900,January,Water,Science,9,0,10,Graduate degree
+TX,Male,Right-Handed,Other,900,August,Water,Physical education,5,40,0,Graduate degree
+TX,Female,Right-Handed,Basketball,50,January,Water,Physical education,8,0,2,Graduate degree
+TX,Female,Right-Handed,Swimming,400,June,Water,Social studies,8,12,7,Graduate degree
+TX,Female,Right-Handed,Other,1000,August,Juice,Mathematics and statistics,10,0,3,Graduate degree
+TX,Male,Right-Handed,Swimming,1000,October,Water,History,8,20,1,Some college
+TX,Male,Right-Handed,Skateboarding/Rollerblading,1000,August,Water,Music,8,0,2,Graduate degree
+TX,Male,Ambidextrous,Basketball,800,May,Water,Other,8,12,2,Graduate degree
+TX,Male,Right-Handed,Soccer,1000,November,Water,Art,10,0,1,Graduate degree
+TX,Female,Right-Handed,Running/Jogging,700,December,Water,History,10,18,5,Some college
+TX,Male,Right-Handed,Soccer,875,February,Milk,Computers and technology,11,0,1,Graduate degree
+TX,Male,Ambidextrous,Baseball/Softball,100,April,Water,Other,9,0,5,Undergraduate degree
+TX,Female,Right-Handed,Running/Jogging,1000,April,Water,Art,8,0,4,Graduate degree
+TX,Male,Right-Handed,Other,650,May,Tea,History,8,0,4,Graduate degree
+TX,Female,Left-Handed,Skateboarding/Rollerblading,900,December,Tea,Science,5,25,10,Graduate degree
+TX,Male,Right-Handed,Other,32,August,Soft drink (caffeinated),History,10,0,0,Undergraduate degree
+TX,Male,Right-Handed,Lacrosse,535,January,Milk,Social studies,8,25,3,Undergraduate degree
+TX,Female,Right-Handed,Soccer,139,October,Water,Science,8,0,6,Other
+TX,Female,Right-Handed,Walking/Hiking,1000,August,Water,Mathematics and statistics,8,0,10,Graduate degree
+TX,Male,Right-Handed,Football (American),439,July,Water,Physical education,10,0,0,Graduate degree
+TX,Female,Right-Handed,Swimming,1000,March,Water,History,10,0,13,Graduate degree
+TX,Female,Right-Handed,Basketball,5,December,Water,Computers and technology,8,0,0,Graduate degree
+TX,Male,Right-Handed,Running/Jogging,332,May,Water,History,10,25,1,Undergraduate degree

@@ -1,0 +1,161 @@
+db.Usuarios.insertMany([
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abcd"),
+        nombreUsuario: "jlopez",
+        correoUsuario: "jlopez@example.com",
+        localizacion: [
+            { ciudadOrigen: "Bogotá", deptoOrigen: "Cundinamarca", codPostal: "110111" }
+        ],
+        preguntaSecreta: "Nombre de tu primera mascota",
+        resPregunSecret: "Firulais",
+        contrasenas: [
+            { contrasena: "hashedPassword1", estado: "Activa", fecha: new Date("2023-10-10") },
+            { contrasena: "hashedPassword2", estado: "Inactiva", fecha: new Date("2023-05-15") }
+        ]
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abce"),
+        nombreUsuario: "mgarcia",
+        correoUsuario: "mgarcia@example.com",
+        localizacion: [
+            { ciudadOrigen: "Medellín", deptoOrigen: "Antioquia", codPostal: "050021" }
+        ],
+        preguntaSecreta: "Lugar de nacimiento",
+        resPregunSecret: "Medellín",
+        contrasenas: [
+            { contrasena: "hashedPassword3", estado: "Activa", fecha: new Date("2023-08-25") }
+        ]
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abcf"),
+        nombreUsuario: "acastro",
+        correoUsuario: "acastro@example.com",
+        localizacion: [
+            { ciudadOrigen: "Cali", deptoOrigen: "Valle del Cauca", codPostal: "760011" }
+        ],
+        preguntaSecreta: "Color favorito",
+        resPregunSecret: "Azul",
+        contrasenas: [
+            { contrasena: "hashedPassword4", estado: "Activa", fecha: new Date("2023-11-01") }
+        ]
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd0"),
+        nombreUsuario: "fluna",
+        correoUsuario: "fluna@example.com",
+        localizacion: [
+            { ciudadOrigen: "Barranquilla", deptoOrigen: "Atlántico", codPostal: "080002" }
+        ],
+        preguntaSecreta: "Nombre de la escuela primaria",
+        resPregunSecret: "San José",
+        contrasenas: [
+            { contrasena: "hashedPassword5", estado: "Activa", fecha: new Date("2023-12-12") }
+        ]
+    }
+]);
+
+
+db.Categorias.insertMany([
+    { _id: ObjectId("64f3d4c8e1d4e5a7b876abda"), nombre: "Inteligencia Artificial"},
+    { _id: ObjectId("64f3d4c8e1d4e5a7b876abdb"), nombre: "Bases de datos NoSQL", subIdCategoria: ObjectId("64f3d4c8e1d4e5a7b876abdc") },
+    { _id: ObjectId("64f3d4c8e1d4e5a7b876abdc"), nombre: "Visualización de datos", subIdCategoria: ObjectId("64f3d4c8e1d4e5a7b876abdd") },
+    { _id: ObjectId("64f3d4c8e1d4e5a7b876abdd"), nombre: "Deep Learning", subIdCategoria: ObjectId("64f3d4c8e1d4e5a7b876abda")}
+]);
+
+
+db.Documentos.insertMany([
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd5"),
+        tituloDoc: "Introducción a MongoDB",
+        visibilidad: "Publico",
+        URL: "https://example.com/intro-mongodb",
+        descripcion: "Guía para principiantes sobre MongoDB",
+        categorias: [{ categoriaId: ObjectId("64f3d4c8e1d4e5a7b876abda") }],
+        descargas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcd"), fechaDescarga: new Date("2023-10-22") }],
+        vistas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcd"), fechaVista: new Date("2023-10-20") }],
+        valoraciones: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcd"), valoracion: 5, fechaValora: new Date("2023-10-21") }],
+        infoAutores: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcd"), fechaPublicacion: new Date("2023-10-15"), rol: "Autor" }],
+        abstract: "Este documento introduce los conceptos básicos de MongoDB."
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd6"),
+        tituloDoc: "Bases de datos relacionales vs NoSQL",
+        visibilidad: "Privado",
+        URL: "https://example.com/bd-relacionales-nosql",
+        descripcion: "Comparación entre bases de datos relacionales y NoSQL",
+        categorias: [{ categoriaId: ObjectId("64f3d4c8e1d4e5a7b876abdb") }],
+        descargas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abce"), fechaDescarga: new Date("2023-11-05") }],
+        vistas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abce"), fechaVista: new Date("2023-11-02") }],
+        valoraciones: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abce"), valoracion: 4, fechaValora: new Date("2023-11-04") }],
+        infoAutores: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abce"), fechaPublicacion: new Date("2023-11-01"), rol: "Coautor" }],
+        abstract: "Un análisis detallado sobre las diferencias entre bases de datos relacionales y NoSQL."
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd7"),
+        tituloDoc: "Gestión de datos en la nube",
+        visibilidad: "Publico",
+        URL: "https://example.com/gestion-datos-nube",
+        descripcion: "Principios de almacenamiento en la nube",
+        categorias: [{ categoriaId: ObjectId("64f3d4c8e1d4e5a7b876abdc") }],
+        descargas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcf"), fechaDescarga: new Date("2023-09-15") }],
+        vistas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcf"), fechaVista: new Date("2023-09-12") }],
+        valoraciones: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcf"), valoracion: 5, fechaValora: new Date("2023-09-13") }],
+        infoAutores: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcf"), fechaPublicacion: new Date("2023-09-10"), rol: "Autor" }],
+        abstract: "Explora la gestión y almacenamiento de datos en la nube."
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd8"),
+        tituloDoc: "Inteligencia Artificial en bases de datos",
+        visibilidad: "Privado",
+        URL: "https://example.com/ia-bd",
+        descripcion: "Aplicación de IA en sistemas de almacenamiento",
+        categorias: [{ categoriaId: ObjectId("64f3d4c8e1d4e5a7b876abdd") }],
+        descargas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abd0"), fechaDescarga: new Date("2023-08-25") }],
+        vistas: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abd0"), fechaVista: new Date("2023-08-22") }],
+        valoraciones: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abd0"), valoracion: 3, fechaValora: new Date("2023-08-24") }],
+        infoAutores: [{ usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abd0"), fechaPublicacion: new Date("2023-08-20"), rol: "Coautor" }],
+        abstract: "Un vistazo a cómo la IA está transformando el manejo de bases de datos."
+    }
+]);
+
+
+
+db.Comentarios.insertMany([
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd1"),
+        comentario: "Excelente documento sobre bases de datos.",
+        fecha: new Date("2023-10-15"),
+        replicasComentario: [
+            { comentarioReplica: "Concuerdo", usuarioReplicaId: ObjectId("64f3d4c8e1d4e5a7b876abcd"), fechaReplica: new Date("2023-10-16") }
+        ],
+        usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcd"),
+        documentoId: ObjectId("64f3d4c8e1d4e5a7b876abd5")
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd2"),
+        comentario: "Información muy útil, gracias.",
+        fecha: new Date("2023-11-20"),
+        replicasComentario: [
+            { comentarioReplica: "De nada, ¡espero que te sirva!", usuarioReplicaId: ObjectId("64f3d4c8e1d4e5a7b876abce"), fechaReplica: new Date("2023-11-21") }
+        ],
+        usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abce"),
+        documentoId: ObjectId("64f3d4c8e1d4e5a7b876abd6")
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd3"),
+        comentario: "¿Alguien sabe cómo se aplica esto en NoSQL?",
+        fecha: new Date("2023-09-05"),
+        replicasComentario: [
+            { comentarioReplica: "Es similar a SQL pero más flexible", usuarioReplicaId: ObjectId("64f3d4c8e1d4e5a7b876abcf"), fechaReplica: new Date("2023-09-06") }
+        ],
+        usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abcf"),
+        documentoId: ObjectId("64f3d4c8e1d4e5a7b876abd7")
+    },
+    {
+        _id: ObjectId("64f3d4c8e1d4e5a7b876abd4"),
+        comentario: "Buen trabajo, muy claro.",
+        fecha: new Date("2023-08-11"),
+        usuarioId: ObjectId("64f3d4c8e1d4e5a7b876abd0"),
+        documentoId: ObjectId("64f3d4c8e1d4e5a7b876abd8")
+    }
+]);
