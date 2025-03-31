@@ -7,4 +7,4 @@ if __name__ == "__main__":
     transformation.main()
 
 print('Como decía la abuela pachangó, esta vaina por fin nos funcionó.')
-logging.info("testing co-authored commits")
+logging.info("testing co-authored commits 2")
