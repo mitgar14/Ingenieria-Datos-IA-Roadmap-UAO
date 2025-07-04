@@ -95,7 +95,7 @@ todo el tiempo, sí conectas con tu profesor y su forma de enseñar genial, apro
 ### 1. [Introducción a la Ingeniería de Datos e IA](1_Roadmap/Semestre_1/Intro_Ing_datos_IA/README.md)
 **¿Qué verás?** Una visión panorámica del campo, conceptos fundamentales y el ecosistema tecnológico.
 
-### 2. [Matemáticas y Lógica Discreta](./Matematicas-Logica-Discreta/)
+### 2. [Matemáticas y Lógica Discreta](1_Roadmap/Semestre_1/Mate_Log_Discretas/README.md)
 **¿Qué verás?** Los fundamentos matemáticos que sustentan toda la ingeniería de datos e IA.
 
 
